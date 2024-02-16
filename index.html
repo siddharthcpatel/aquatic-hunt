@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Siddharth Patel" />
+    <meta name="description" content="Hidden Objects Game - v1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.cdnfonts.com/css/minecraftia" rel="stylesheet">
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="icon" type="image/x-icon" href="./favicon/favicon.svg" />
+
+    <!-- link GSAP library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+
+    <!-- link JavaScript -->
+    <script defer src="./js/facts.js"></script>
+    <script defer src="./js/script.js"></script>
+
+    <title>Hidden Objects Game - v1</title>
+  </head>
+
+  <body>
+    <main>
+      <!-- intro -->
+      <section class="intro">
+        <img class='introImage' src="./images/intro.svg" alt="intro">
+      </section>
+      <!-- menu -->
+      <section class="sect">
+        <div class='sectHeader'>
+          <img class="logo" src="./images/logo.svg" alt="logo">
+          <div id="scoreMain">0</div>
+        </div>
+        <div class='sectMain'>
+          <div class='sectMainLeft'>
+            <h2>INSTRUCTIONS</h2>
+            <p>1. Discover objects to earn coins—collect 20 coins to succeed! Locate 5 objects per level within 60 seconds.</p>
+            <br>
+            <p>2. Every found object equals 1 coin; missing 5 objects in a level means 0 points. Retry the level if needed.</p>
+            <br>
+            <p>3. Running out of time in a level forfeits all points; start over again.</p>
+          </div>
+          <div class='puzzleStyleContainer'>
+            <div class='puzzleStyleBox'>
+              <div class='sectTop'>
+                <p class="sectText">The Coral Reef</p>
+                <button class='playButton' id='objbtn0'></button>
+              </div>
+              <object data="./images/puzzle1/puzzle1.svg" class="puzzleStyle" id="obj0"></object>
+            </div>
+            <div class='puzzleStyleBox'>
+              <div class='sectTop'>
+                <p class="sectText">Mangrove Swamp</p>
+                <button class='playButton' id='objbtn1'></button>
+              </div> <object data="./images/puzzle2/puzzle2.svg" class="puzzleStyle" id="obj1"></object>
+            </div>
+            <div class='puzzleStyleBox'>
+              <div class='sectTop'>
+                <p class="sectText">Forest River</p>
+                <button class='playButton' id='objbtn2'></button>
+              </div> <object data="./images/puzzle3/puzzle3.svg" class="puzzleStyle" id="obj2"></object>
+            </div>
+            <div class='puzzleStyleBox'>
+              <div class='sectTop'>
+                <p class="sectText">Lakeside Beach</p>
+                <button class='playButton' id='objbtn3'></button>
+              </div>
+              <object data="./images/puzzle4/puzzle4.svg" class="puzzleStyle" id="obj3"></object>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- scene 1 -->
+      <section class="sect1">
+        <object data="./images/puzzle1/puzzle1.svg" type="image/svg+xml" id="scene1"></object>
+      </section>
+      <!-- scene 2 -->
+      <section class="sect2">
+        <object data="./images/puzzle2/puzzle2.svg" type="image/svg+xml" id="scene2"></object>
+      </section>
+      <!-- scene 3 -->
+      <section class="sect3">
+        <object data="./images/puzzle3/puzzle3.svg" type="image/svg+xml" id="scene3"></object>
+      </section>
+      <!-- scene 3 -->
+      <section class="sect4">
+        <object data="./images/puzzle4/puzzle4.svg" type="image/svg+xml" id="scene4"></object>
+      </section>
+      <!-- board -->
+      <section class="board">
+        <div class="boardLeft">
+          <div class="buttons" id="btn0"></div>
+          <div id="timer"></div>
+        </div>
+        <div class="boardCenter">
+          <div class="itemsDisplay">
+            <img src="./images/box.svg" alt="Hidden Object 1" class="boardStyle" id="item0">
+            <img src="./images/box.svg" alt="Hidden Object 2" class="boardStyle" id="item1">
+            <img src="./images/box.svg" alt="Hidden Object 3" class="boardStyle" id="item2">
+            <img src="./images/box.svg" alt="Hidden Object 4" class="boardStyle" id="item3">
+            <img src="./images/box.svg" alt="Hidden Object 5" class="boardStyle" id="item4">
+          </div>
+        </div>
+        <div class="boardRight">
+          <div class="buttons" id="btn1"></div>
+          <div id="score">0</div>
+        </div>
+      </section>
+      <section class="fact">
+        <p class="factText"></p>
+      </section>
+    </main>
+    <section class='winScreen'>
+      <div class='winScreen-container'>
+        <h1>Congratulations!</h1>
+        <p>You've now learnt a little bit more about the world's aquatic ecosystems!</p>
+        <button id='playAgain'>Play Again</button>
+      </div>
+    </section>
+    <section class='encouragementScreen'>
+      <div class='encouragementScreen-container'>
+        <h1>Great job!</h1>
+        <p>Keep going and find more animals to learn more!</p>
+        <button id='continueMenuAnimation'>Select Level</button>
+      </div>
+    </section>
+    <section class='timeoutScreen'>
+      <div class='timeoutScreen-container'>
+        <h1>Oh no!</h1>
+        <p>You ran out of time, try again!</p>
+        <button id='playAgainTimeout'>Select Level</button>
+      </div>
+    </section>
+  </body>
+
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.6 160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2dd6c;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #8a2626;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="dates">
+      <path id="Rectangle_2441" data-name="Rectangle 2441" class="cls-1" d="m26.6,0h26.7v53.3h-26.7V0Z"/>
+      <path id="Rectangle_2442" data-name="Rectangle 2442" class="cls-2" d="m26.6,53.3h26.7v80h-26.7V53.3Z"/>
+      <path id="Rectangle_2446" data-name="Rectangle 2446" class="cls-2" d="m0,26.6h26.6v80H0V26.6Z"/>
+      <path id="Rectangle_2443" data-name="Rectangle 2443" class="cls-2" d="m53.3,53.3h26.7v106.7h-26.7V53.3Z"/>
+      <path id="Rectangle_2444" data-name="Rectangle 2444" class="cls-2" d="m80,80h26.6v80h-26.6v-80Z"/>
+    </g>
+  </g>
+</svg>

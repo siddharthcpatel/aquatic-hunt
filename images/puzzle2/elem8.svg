@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 341.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #685043;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="red_mangrove_root" data-name="red mangrove root">
+      <path id="Rectangle_848" data-name="Rectangle 848" class="cls-1" d="m42.6,256h64v85.3H42.6v-85.3Z"/>
+      <path id="Rectangle_867" data-name="Rectangle 867" class="cls-1" d="m0,298.6h42.6v42.7H0v-42.7Z"/>
+      <path id="Rectangle_849" data-name="Rectangle 849" class="cls-1" d="m85.3,170.6h64v85.4h-64v-85.4Z"/>
+      <path id="Rectangle_859" data-name="Rectangle 859" class="cls-1" d="m106.6,256h21.4v42.6h-21.4v-42.6Z"/>
+      <path id="Rectangle_860" data-name="Rectangle 860" class="cls-1" d="m128,128h21.3v42.6h-21.3v-42.6Z"/>
+      <path id="Rectangle_861" data-name="Rectangle 861" class="cls-1" d="m149.3,192h21.3v21.3h-21.3v-21.3Z"/>
+      <path id="Rectangle_850" data-name="Rectangle 850" class="cls-1" d="m149.3,85.3h64v106.7h-64v-106.7Z"/>
+      <path id="Rectangle_857" data-name="Rectangle 857" class="cls-1" d="m213.3,106.6h42.7v21.4h-42.7v-21.4Z"/>
+      <path id="Rectangle_851" data-name="Rectangle 851" class="cls-1" d="m213.3,42.6h106.7v64h-106.7V42.6Z"/>
+      <path id="Rectangle_855" data-name="Rectangle 855" class="cls-1" d="m277.3,21.3h106.7v21.3h-106.7v-21.3Z"/>
+      <path id="Rectangle_863" data-name="Rectangle 863" class="cls-1" d="m320,42.6h21.3v42.7h-21.3v-42.7Z"/>
+      <path id="Rectangle_862" data-name="Rectangle 862" class="cls-1" d="m341.3,0h42.7v21.3h-42.7V0Z"/>
+      <path id="Rectangle_588" data-name="Rectangle 588" class="cls-1" d="m341.3,85.3h42.7v-42.7h-42.7v42.7Z"/>
+    </g>
+  </g>
+</svg>

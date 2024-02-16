@@ -1,0 +1,404 @@
+@charset "UTF-8";
+
+html,
+body * {
+    box-sizing: border-box;
+    font-family: 'Minecraftia', monospace;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 1080px;
+    margin: auto;
+}
+
+.sect1,
+.sect2,
+.sect3,
+.sect4,
+.board {
+    visibility: hidden;
+    overflow: hidden;
+    max-width: 1080px;
+    width: 100%;
+    margin: auto;
+    position: fixed;
+    top: 0;
+}
+
+.sect {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 100%;
+    opacity: 0;
+}
+
+.sect>object {
+    cursor: pointer;
+    transition: .5s;
+}
+
+.puzzleStyleContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 50%;
+    height: auto;
+}
+
+.sectTop {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 8px 0;
+}
+
+.playButton {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    border: 0;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+.sectText {
+    color: #FFF;
+    font-size: 16px;
+    margin: auto 0;
+    line-height: 150%;
+}
+
+.puzzleStyleBox {
+    width: 250px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    transition: .4s;
+    pointer-events: auto;
+    position: relative;
+}
+
+.puzzleStyleBox:hover {
+    /* transform: translateY(-8px); */
+    transition: .4s;
+}
+
+.sectHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: max-content;
+}
+
+#scoreMain {
+    cursor: pointer;
+    background-image: url(../images/pointsBackground.svg);
+    background-size: contain;
+    width: 152px;
+    height: 100px;
+    margin: 0;
+    font-size: 40px;
+    color: white;
+    padding: 40px 16px 0 76px;
+}
+
+.puzzleStyle {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    transition: .4s;
+    pointer-events: auto;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.sectMain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 80px 8px;
+    flex-wrap: wrap;
+}
+
+.sectMainLeft {
+    position: relative;
+    width: 45%;
+    height: auto;
+    background-color: #212121;
+    border: 8px solid #3C3C3C;
+    color: #FFF;
+    padding: 4% 2% 2% 2%;
+}
+
+.sectMainLeft::after {
+    content: "?";
+    position: absolute;
+    text-align: center;
+    line-height: 232%;
+    font-size: 20px;
+    height: 48px;
+    width: 48px;
+    margin: auto;
+    right: -24px;
+    top: -24px;
+    background-color: #757575;
+}
+
+.sectMainLeft>h2 {
+    margin-bottom: 8%;
+    font-size: 20px;
+}
+
+.sectMainLeft>p {
+    font-size: 14px;
+    line-height: 150%;
+    color: #AAAAAA;
+}
+
+.board {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.boardStyle {
+    width: 40px;
+    height: 40px;
+    margin: 40px auto 0;
+}
+
+.boardLeft,
+.boardRight {
+    display: flex;
+    flex-direction: row;
+}
+
+.boardCenter {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.completedText {
+    position: absolute;
+    color: #FFF;
+    font-size: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+
+.itemsDisplay {
+    display: flex;
+    flex-direction: row;
+    background-image: url(../images/itemsBackground.svg);
+    width: 314px;
+    height: 100px;
+    padding: 0 25px;
+}
+
+#btn0 {
+    cursor: pointer;
+    background-image: url(../images/homeButton.svg);
+    background-size: contain;
+    width: 40px;
+    height: 50px;
+    margin: 0 20px;
+}
+
+#btn1 {
+    cursor: pointer;
+    background-image: url(../images/shuffleButton.svg);
+    background-size: contain;
+    width: 121px;
+    height: 50px;
+    margin: 0 20px;
+}
+
+#score {
+    background-image: url(../images/pointsBackground.svg);
+    background-size: contain;
+    width: 76px;
+    height: 50px;
+    margin: 0 20px 0 0;
+    font-size: 20px;
+    color: white;
+    padding: 20px 8px 0 38px;
+}
+
+#timer {
+    background-image: url(../images/timerBackground.svg);
+    background-size: contain;
+    width: 81px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    padding: 20px 8px 0;
+}
+
+.fact {
+    background-color: #212121;
+    border: 4px solid #3C3C3C;
+    font-size: 50%;
+    padding: 12px 20px 12px;
+    position: absolute;
+    width: 100%;
+    height: fit-content;
+    max-width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+    visibility: hidden;
+}
+
+.factText {
+    color: #FFF;
+    line-height: 150%;
+}
+
+.intro {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    pointer-events: none;
+}
+
+.introImage {
+    width: 100%;
+    height: auto;
+}
+
+.confetti {
+    position: absolute;
+    pointer-events: none;
+    left: 50%;
+    top: 0;
+    transform: translateY(-50%);
+}
+
+.winScreen,
+.encouragementScreen,
+.timeoutScreen {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000;
+    color: #FFF;
+    position: absolute;
+    display: none;
+    overflow: hidden;
+}
+
+.winScreen-container,
+.encouragementScreen-container,
+.timeoutScreen-container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.winScreen h1,
+.encouragementScreen h1,
+.timeoutScreen h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.winScreen p,
+.encouragementScreen p,
+.timeoutScreen p {
+    margin: 20px 0 40px 0;
+}
+
+.winScreen button,
+.encouragementScreen button,
+.timeoutScreen button {
+    cursor: pointer;
+    margin: auto;
+    background-color: #757575;
+    color: #FFF;
+    border: 0;
+    padding: 8px 16px;
+}
+
+@media (max-width: 1200px) {
+
+    body {
+        overflow: auto;
+    }
+
+    .sect {
+        margin: 0 20px;
+    }
+
+    .sectMain {
+        flex-direction: column;
+    }
+
+    .sectMainLeft,
+    .puzzleStyleContainer {
+        width: 100%;
+    }
+
+    .sectMainLeft>h2 {
+        margin: 0 0 20px 0;
+    }
+
+    .puzzleStyleContainer {
+        margin-top: 40px;
+    }
+
+    .puzzleStyleBox {
+        width: 24%;
+    }
+
+    .sectTop {
+        flex-direction: column;
+    }
+
+    .playButton {
+        width: 100%;
+        border-radius: 0;
+    }
+}
+
+@media (max-width: 790px) {
+
+    body {
+        overflow: auto;
+    }
+
+    .puzzleStyleBox {
+        width: 100%;
+        margin: 0 20px 40px 20px;
+    }
+}

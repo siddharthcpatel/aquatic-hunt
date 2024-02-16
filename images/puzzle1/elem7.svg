@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 240">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7c553f;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #dcee6e;
+      }
+
+      .cls-3 {
+        fill: #b3bf68;
+      }
+
+      .cls-4 {
+        fill: #ff5a5a;
+      }
+    </style>
+  </defs>
+  <g id="Coral_Reef" data-name="Coral Reef">
+    <g id="kelp_1" data-name="kelp 1">
+      <path id="Rectangle_403" data-name="Rectangle 403" class="cls-3" d="M60,190h20v50h-20v-50Z"/>
+      <path id="Rectangle_407" data-name="Rectangle 407" class="cls-3" d="M50,220h10v20h-10v-20Z"/>
+      <path id="Rectangle_404" data-name="Rectangle 404" class="cls-3" d="M70,60h10v130h-10V60Z"/>
+      <path id="Rectangle_409" data-name="Rectangle 409" class="cls-3" d="M80,90h10v120h-10v-120Z"/>
+      <path id="Rectangle_405" data-name="Rectangle 405" class="cls-3" d="M60,40h10v70h-10V40Z"/>
+      <path id="Rectangle_408" data-name="Rectangle 408" class="cls-3" d="M50,20h10v50h-10V20Z"/>
+      <path id="Rectangle_410" data-name="Rectangle 410" class="cls-3" d="M40,30h10v30h-10v-30Z"/>
+      <g id="Group_48" data-name="Group 48">
+        <path id="Rectangle_411" data-name="Rectangle 411" class="cls-2" d="M90,140h10v30h-10v-30Z"/>
+        <path id="Rectangle_412" data-name="Rectangle 412" class="cls-2" d="M100,130h10v30h-10v-30Z"/>
+        <path id="Rectangle_413" data-name="Rectangle 413" class="cls-2" d="M110,120h10v40h-10v-40Z"/>
+        <path id="Rectangle_414" data-name="Rectangle 414" class="cls-2" d="M120,110h10v40h-10v-40Z"/>
+        <path id="Rectangle_415" data-name="Rectangle 415" class="cls-2" d="M130,100h10v30h-10v-30Z"/>
+      </g>
+      <g id="Group_49" data-name="Group 49">
+        <path id="Rectangle_411-2" data-name="Rectangle 411" class="cls-2" d="M70,130h-10v30h10v-30Z"/>
+        <path id="Rectangle_412-2" data-name="Rectangle 412" class="cls-2" d="M60,120h-10v30h10v-30Z"/>
+        <path id="Rectangle_413-2" data-name="Rectangle 413" class="cls-2" d="M50,110h-10v40h10v-40Z"/>
+        <path id="Rectangle_414-2" data-name="Rectangle 414" class="cls-2" d="M40,100h-10v40h10v-40Z"/>
+        <path id="Rectangle_415-2" data-name="Rectangle 415" class="cls-2" d="M30,90h-10v30h10v-30Z"/>
+      </g>
+      <g id="Group_50" data-name="Group 50">
+        <path id="Rectangle_411-3" data-name="Rectangle 411" class="cls-2" d="M90,80h10v30h-10v-30Z"/>
+        <path id="Rectangle_412-3" data-name="Rectangle 412" class="cls-2" d="M100,70h10v30h-10v-30Z"/>
+        <path id="Rectangle_413-3" data-name="Rectangle 413" class="cls-2" d="M110,60h10v40h-10v-40Z"/>
+        <path id="Rectangle_414-3" data-name="Rectangle 414" class="cls-2" d="M120,50h10v40h-10v-40Z"/>
+        <path id="Rectangle_415-3" data-name="Rectangle 415" class="cls-2" d="M130,40h10v30h-10v-30Z"/>
+      </g>
+      <g id="Group_51" data-name="Group 51">
+        <path id="Rectangle_411-4" data-name="Rectangle 411" class="cls-2" d="M70,40h10v30h-10v-30Z"/>
+        <path id="Rectangle_412-4" data-name="Rectangle 412" class="cls-2" d="M80,30h10v30h-10v-30Z"/>
+        <path id="Rectangle_413-4" data-name="Rectangle 413" class="cls-2" d="M90,20h10v40h-10V20Z"/>
+        <path id="Rectangle_414-4" data-name="Rectangle 414" class="cls-2" d="M100,10h10v40h-10V10Z"/>
+        <path id="Rectangle_415-4" data-name="Rectangle 415" class="cls-2" d="M110,0h10v30h-10V0Z"/>
+      </g>
+      <g id="Group_52" data-name="Group 52">
+        <path id="Rectangle_411-5" data-name="Rectangle 411" class="cls-2" d="M50,60h-10v30h10v-30Z"/>
+        <path id="Rectangle_416" data-name="Rectangle 416" class="cls-2" d="M60,70h-10v20h10v-20Z"/>
+        <path id="Rectangle_412-5" data-name="Rectangle 412" class="cls-2" d="M40,50h-10v30h10v-30Z"/>
+        <path id="Rectangle_413-5" data-name="Rectangle 413" class="cls-2" d="M30,40h-10v40h10v-40Z"/>
+        <path id="Rectangle_414-5" data-name="Rectangle 414" class="cls-2" d="M20,30h-10v40h10V30Z"/>
+        <path id="Rectangle_415-5" data-name="Rectangle 415" class="cls-2" d="M10,20H0v30h10v-30Z"/>
+      </g>
+      <g id="Group_53" data-name="Group 53">
+        <path id="Rectangle_411-6" data-name="Rectangle 411" class="cls-2" d="M60,180h-10v30h10v-30Z"/>
+        <path id="Rectangle_412-6" data-name="Rectangle 412" class="cls-2" d="M50,170h-10v30h10v-30Z"/>
+        <path id="Rectangle_413-6" data-name="Rectangle 413" class="cls-2" d="M40,160h-10v40h10v-40Z"/>
+        <path id="Rectangle_414-6" data-name="Rectangle 414" class="cls-2" d="M30,150h-10v40h10v-40Z"/>
+        <path id="Rectangle_415-6" data-name="Rectangle 415" class="cls-2" d="M20,140h-10v30h10v-30Z"/>
+      </g>
+      <g id="Group_54" data-name="Group 54">
+        <path id="Rectangle_411-7" data-name="Rectangle 411" class="cls-2" d="M80,210h10v30h-10v-30Z"/>
+        <path id="Rectangle_412-7" data-name="Rectangle 412" class="cls-2" d="M90,200h10v30h-10v-30Z"/>
+        <path id="Rectangle_413-7" data-name="Rectangle 413" class="cls-2" d="M100,190h10v40h-10v-40Z"/>
+        <path id="Rectangle_414-7" data-name="Rectangle 414" class="cls-2" d="M110,180h10v40h-10v-40Z"/>
+        <path id="Rectangle_415-7" data-name="Rectangle 415" class="cls-2" d="M120,170h10v30h-10v-30Z"/>
+      </g>
+      <g id="Group_55" data-name="Group 55">
+        <path id="Rectangle_417" data-name="Rectangle 417" class="cls-1" d="M50,20h20v20h-20v-20Z"/>
+        <path id="Rectangle_418" data-name="Rectangle 418" class="cls-4" d="M50,0h30v20h-30V0Z"/>
+        <path id="Rectangle_419" data-name="Rectangle 419" class="cls-4" d="M40,40h30v20h-30v-20Z"/>
+        <path id="Rectangle_420" data-name="Rectangle 420" class="cls-4" d="M70,20h20v30h-20v-30Z"/>
+        <path id="Rectangle_421" data-name="Rectangle 421" class="cls-4" d="M30,10h20v30h-20V10Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6e39f;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #e2cf89;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="turtle_eggs" data-name="turtle eggs">
+      <path id="Rectangle_2383" data-name="Rectangle 2383" class="cls-2" d="m15,10h95v55H15V10Z"/>
+      <path id="Rectangle_2384" data-name="Rectangle 2384" class="cls-2" d="m0,25h20v85H0V25Z"/>
+      <path id="Rectangle_2385" data-name="Rectangle 2385" class="cls-2" d="m15,65h80v40H15v-40Z"/>
+      <path id="Rectangle_2386" data-name="Rectangle 2386" class="cls-1" d="m20,20h65v45H20V20Z"/>
+      <path id="Rectangle_2387" data-name="Rectangle 2387" class="cls-1" d="m10,50h65v45H10v-45Z"/>
+      <g id="Group_252" data-name="Group 252">
+        <path id="Rectangle_2294" data-name="Rectangle 2294" class="cls-3" d="m20,35h10v10h-10v-10Z"/>
+        <path id="Rectangle_2317" data-name="Rectangle 2317" class="cls-3" d="m35,25h10v10h-10v-10Z"/>
+        <path id="Rectangle_2300" data-name="Rectangle 2300" class="cls-3" d="m5,40h10v10H5v-10Z"/>
+        <path id="Rectangle_2301" data-name="Rectangle 2301" class="cls-3" d="m5,75h10v10H5v-10Z"/>
+        <path id="Rectangle_2302" data-name="Rectangle 2302" class="cls-3" d="m20,60h10v10h-10v-10Z"/>
+        <path id="Rectangle_2303" data-name="Rectangle 2303" class="cls-3" d="m35,45h10v10h-10v-10Z"/>
+        <path id="Rectangle_2304" data-name="Rectangle 2304" class="cls-3" d="m50,60h10v10h-10v-10Z"/>
+        <path id="Rectangle_2305" data-name="Rectangle 2305" class="cls-3" d="m65,40h10v10h-10v-10Z"/>
+        <path id="Rectangle_2295" data-name="Rectangle 2295" class="cls-3" d="m20,15h10v10h-10v-10Z"/>
+        <path id="Rectangle_2296" data-name="Rectangle 2296" class="cls-3" d="m65,15h10v10h-10v-10Z"/>
+        <path id="Rectangle_2297" data-name="Rectangle 2297" class="cls-3" d="m55,0h10v10h-10V0Z"/>
+        <path id="Rectangle_2307" data-name="Rectangle 2307" class="cls-3" d="m80,0h10v10h-10V0Z"/>
+        <path id="Rectangle_2308" data-name="Rectangle 2308" class="cls-3" d="m95,15h10v10h-10v-10Z"/>
+        <path id="Rectangle_2309" data-name="Rectangle 2309" class="cls-3" d="m90,50h10v10h-10v-10Z"/>
+        <path id="Rectangle_2310" data-name="Rectangle 2310" class="cls-3" d="m70,60h10v10h-10v-10Z"/>
+        <path id="Rectangle_2311" data-name="Rectangle 2311" class="cls-3" d="m35,70h10v10h-10v-10Z"/>
+        <path id="Rectangle_2312" data-name="Rectangle 2312" class="cls-3" d="m5,95h10v10H5v-10Z"/>
+        <path id="Rectangle_2313" data-name="Rectangle 2313" class="cls-3" d="m20,85h10v10h-10v-10Z"/>
+        <path id="Rectangle_2314" data-name="Rectangle 2314" class="cls-3" d="m50,85h10v10h-10v-10Z"/>
+        <path id="Rectangle_2315" data-name="Rectangle 2315" class="cls-3" d="m50,45h10v10h-10v-10Z"/>
+        <path id="Rectangle_2316" data-name="Rectangle 2316" class="cls-3" d="m70,80h10v10h-10v-10Z"/>
+        <path id="Rectangle_2306" data-name="Rectangle 2306" class="cls-3" d="m80,30h10v10h-10v-10Z"/>
+        <path id="Rectangle_2298" data-name="Rectangle 2298" class="cls-3" d="m50,25h10v10h-10v-10Z"/>
+        <path id="Rectangle_2299" data-name="Rectangle 2299" class="cls-3" d="m35,5h10v10h-10V5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

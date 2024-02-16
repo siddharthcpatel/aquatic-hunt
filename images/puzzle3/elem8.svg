@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 144">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #513837;
+      }
+
+      .cls-3 {
+        fill: #cfcec8;
+      }
+
+      .cls-4 {
+        fill: #b59c9b;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #fee47e;
+      }
+
+      .cls-7 {
+        fill: #009066;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="mallard">
+      <path id="Rectangle_1999" data-name="Rectangle 1999" class="cls-2" d="m96,56h32v80h-32V56Z"/>
+      <path id="Rectangle_2000" data-name="Rectangle 2000" class="cls-2" d="m128,64h8v64h-8v-64Z"/>
+      <path id="Rectangle_2001" data-name="Rectangle 2001" class="cls-2" d="m136,80h8v40h-8v-40Z"/>
+      <path id="Rectangle_2002" data-name="Rectangle 2002" class="cls-2" d="m88,88h8v40h-8v-40Z"/>
+      <path id="Rectangle_2003" data-name="Rectangle 2003" class="cls-5" d="m96,48h32v8h-32v-8Z"/>
+      <path id="Rectangle_2004" data-name="Rectangle 2004" class="cls-7" d="m88,40h32v8h-32v-8Z"/>
+      <path id="Rectangle_2005" data-name="Rectangle 2005" class="cls-7" d="m88,32h32v8h-32v-8Z"/>
+      <path id="Rectangle_2006" data-name="Rectangle 2006" class="cls-7" d="m96,24h24v8h-24v-8Z"/>
+      <path id="Rectangle_2007" data-name="Rectangle 2007" class="cls-7" d="m96,16h32v8h-32v-8Z"/>
+      <path id="Rectangle_2008" data-name="Rectangle 2008" class="cls-7" d="m96,8h32v8h-32v-8Z"/>
+      <path id="Rectangle_2011" data-name="Rectangle 2011" class="cls-6" d="m128,16h8v16h-8v-16Z"/>
+      <path id="Rectangle_2031" data-name="Rectangle 2031" class="cls-6" d="m120,24h8v8h-8v-8Z"/>
+      <path id="Rectangle_2028" data-name="Rectangle 2028" class="cls-6" d="m128,8h8v8h-8v-8Z"/>
+      <path id="Rectangle_2012" data-name="Rectangle 2012" class="cls-6" d="m136,16h8v24h-8v-24Z"/>
+      <path id="Rectangle_2013" data-name="Rectangle 2013" class="cls-6" d="m144,24h8v8h-8v-8Z"/>
+      <path id="Rectangle_2014" data-name="Rectangle 2014" class="cls-3" d="m40,88h48v48h-48v-48Z"/>
+      <path id="Rectangle_2015" data-name="Rectangle 2015" class="cls-3" d="m48,136h56v8h-56v-8Z"/>
+      <path id="Rectangle_2016" data-name="Rectangle 2016" class="cls-3" d="m88,128h8v8h-8v-8Z"/>
+      <path id="Rectangle_2017" data-name="Rectangle 2017" class="cls-3" d="m56,80h40v8h-40v-8Z"/>
+      <path id="Rectangle_2018" data-name="Rectangle 2018" class="cls-3" d="m32,96h8v40h-8v-40Z"/>
+      <path id="Rectangle_2019" data-name="Rectangle 2019" class="cls-3" d="m24,104h8v24h-8v-24Z"/>
+      <path id="Rectangle_2020" data-name="Rectangle 2020" class="cls-3" d="m16,104h8v16h-8v-16Z"/>
+      <path id="Rectangle_2021" data-name="Rectangle 2021" class="cls-4" d="m72,64h24v16h-24v-16Z"/>
+      <path id="Rectangle_2022" data-name="Rectangle 2022" class="cls-4" d="m48,72h24v8h-24v-8Z"/>
+      <path id="Rectangle_2023" data-name="Rectangle 2023" class="cls-2" d="m24,80h32v8H24v-8Z"/>
+      <path id="Rectangle_2024" data-name="Rectangle 2024" class="cls-2" d="m16,88h24v8h-24v-8Z"/>
+      <path id="Rectangle_2025" data-name="Rectangle 2025" class="cls-3" d="m16,96h16v8h-16v-8Z"/>
+      <path id="Rectangle_2026" data-name="Rectangle 2026" class="cls-1" d="m0,88h16v24H0v-24Z"/>
+      <path id="Rectangle_2027" data-name="Rectangle 2027" class="cls-1" d="m8,112h8v8h-8v-8Z"/>
+      <path id="Rectangle_2032" data-name="Rectangle 2032" class="cls-1" d="m0,80h8v8H0v-8Z"/>
+      <path id="Rectangle_2009" data-name="Rectangle 2009" class="cls-7" d="m104,0h24v8h-24V0Z"/>
+      <path id="Rectangle_2030" data-name="Rectangle 2030" class="cls-1" d="m112,8h8v8h-8v-8Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+let factsObject = {
+    1: {
+        0: "The Purple Coral Bloom adds a burst of vibrant purple to coral reefs, enhancing the underwater tapestry.",
+        1: "The blue tang is a vibrant reef fish known for its striking blue and yellow coloration.",
+        2: "Blue starfish are remarkable creatures with the ability to regenerate lost limbs.",
+        3: "The oriental butterflyfish is a coral reef fish admired for its graceful movements.",
+        4: "Hawksbill sea turtles are critically endangered and recognized for their unique appearance.",
+        5: "Moorish idols are colorful reef fish with long, trailing dorsal fins.",
+        6: "Barletts anthias are small, vibrant fish forming social groups in coral reefs.",
+        7: "Kelp is large brown seaweed forming underwater forests, providing habitat and food.",
+        8: "The princess parrotfish is a colorful reef fish with a distinctive appearance.",
+        9: "Reef manta rays are majestic sea creatures with wide wingspans.",
+        10: "Moray eels are elongated fish with sharp teeth, skilled hunters in coral reefs.",
+        11: "Sea cucumbers are marine animals playing a vital role in nutrient recycling.",
+        12: "Snowflake moray eels are known for their intricate patterns and camouflage.",
+        13: "Tube coral is a type of coral forming long, tube-like structures.",
+        14: "Clownfishes perform an elaborate dance before taking up residence in coral anemones.",
+        15: "Sea horses can camouflage well, and male seahorses have babies instead of females!",
+        16: "Sharks do not have bones, have been around longer than humans, and their skin feels like sandpaper.",
+        17: "Dolphins sleep with one eye closed, can live as long as humans, and do not drink water.",
+        18: "The Leatherback Turtle is the world's largest turtle, even growing taller than humans.",
+        19: "Pufferfish are small but expand up to 3 times their size when sensing danger, with poisonous thorns."
+    },
+    2: {
+        0: "Bocourt's swimming crab is a small, agile crustacean found in coastal waters.",
+        1: "Hard clams, also known as quahogs, are bivalve mollusks in saltwater environments.",
+        2: "The American toad is a common amphibian known for its warty skin and distinctive call.",
+        3: "Frogspawn is a mass of frog eggs surrounded by a jelly-like substance, a crucial stage in frog reproduction.",
+        4: "Autumn meadowhawks are dragonflies active during fall, displaying vibrant red and orange colors.",
+        5: "Green darners are large dragonflies known for their swift and agile flight.",
+        6: "Gray snapper larvae are the early developmental stage of gray snapper fish.",
+        7: "Lilypads are floating leaves of water lilies providing platforms for aquatic organisms.",
+        8: "Red mangrove roots are a distinctive feature of mangrove trees, providing stability.",
+        9: "The American crocodile is a large reptile found in coastal habitats, known for its powerful jaws."
+    },
+    3: {
+        0: "King salmon, also known as Chinook salmon, are large and prized fish in recreational and commercial fishing.",
+        1: "Mallard eggs are laid by female mallard ducks, commonly found in nests near freshwater habitats.",
+        2: "Red salmon, also known as sockeye salmon, are a species with distinctively red-colored flesh.",
+        3: "Salmon eggs are laid by female salmon during the spawning season, playing a crucial role in their life cycle.",
+        4: "Northern leopard frogs are common amphibians known for their spotted appearance and distinct vocalizations.",
+        5: "Southern toads are terrestrial amphibians known for their distinctive call during the breeding season.",
+        6: "Red-eyed treefrogs are vibrant tree-dwelling amphibians with striking red eyes.",
+        7: "American bullfrogs are large frogs known for their deep croaking calls and widespread distribution.",
+        8: "Mallards are versatile ducks with distinctive iridescent green heads, commonly found in wetland habitats.",
+        9: "River crowfoot is a type of aquatic plant that often grows in flowing rivers and streams."
+    },
+    4: {
+        0: "Sea urchins play a crucial role in marine ecosystems, contributing to coral reef health.",
+        1: "Hermit crabs are crustaceans using empty shells for protection, changing shells as they grow.",
+        2: "Ghost crabs are nocturnal crabs found on sandy beaches, known for their pale coloration and swift movements.",
+        3: "Yellow-bellied seasnakes are venomous marine snakes with a distinctive yellow underside.",
+        4: "Shells, the protective outer covering of various marine animals, come in a diverse range of shapes and sizes.",
+        5: "Turtle eggs are laid by female turtles in nests on beaches, a critical event in their life cycle.",
+        6: "Glowing algae, also known as bioluminescent algae, emit light in the dark, creating a stunning natural phenomenon.",
+        7: "Dates are the fruits of date palms, providing a nutritious food source in arid regions.",
+        8: "Banded seasnakes are a group of venomous sea snakes known for their distinctive banded coloration.",
+        9: "Coconuts are large seeds of coconut palm trees, known for versatile use in various cultures."
+    }
+}

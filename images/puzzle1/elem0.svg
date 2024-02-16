@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7c553f;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #d796ff;
+      }
+    </style>
+  </defs>
+  <g id="Coral_Reef" data-name="Coral Reef">
+    <g id="kelp_flower">
+      <path id="Rectangle_417" data-name="Rectangle 417" class="cls-1" d="M40,20h-20v20h20v-20Z"/>
+      <path id="Rectangle_418" data-name="Rectangle 418" class="cls-2" d="M40,0H10v20h30V0Z"/>
+      <path id="Rectangle_419" data-name="Rectangle 419" class="cls-2" d="M50,40h-30v20h30v-20Z"/>
+      <path id="Rectangle_420" data-name="Rectangle 420" class="cls-2" d="M20,20H0v30h20v-30Z"/>
+      <path id="Rectangle_421" data-name="Rectangle 421" class="cls-2" d="M60,10h-20v30h20V10Z"/>
+    </g>
+  </g>
+</svg>

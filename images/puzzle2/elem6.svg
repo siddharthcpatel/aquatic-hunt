@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 43.3">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cef6f6;
+      }
+
+      .cls-3 {
+        fill: #a5d3d3;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="gray_snapper_larvae" data-name="gray snapper larvae">
+      <path id="Rectangle_3" data-name="Rectangle 3" class="cls-3" d="m56.7,13.3h-26.7v26.7h26.7V13.3Z"/>
+      <path id="Rectangle_19" data-name="Rectangle 19" class="cls-3" d="m30,16.7h-10v10h10v-10Z"/>
+      <path id="Rectangle_20" data-name="Rectangle 20" class="cls-3" d="m30,26.7h-10v10h10v-10Z"/>
+      <path id="Rectangle_25" data-name="Rectangle 25" class="cls-3" d="m66.7,40h-26.7v3.3h26.7v-3.3Z"/>
+      <path id="Rectangle_26" data-name="Rectangle 26" class="cls-3" d="m70,10h-30v3.3h30v-3.3Z"/>
+      <path id="Rectangle_41" data-name="Rectangle 41" class="cls-3" d="m56.7,6.7h-20v3.3h20v-3.3Z"/>
+      <path id="Rectangle_42" data-name="Rectangle 42" class="cls-3" d="m53.3,3.3h-16.6v3.4h16.6v-3.4Z"/>
+      <path id="Rectangle_43" data-name="Rectangle 43" class="cls-3" d="m46.7,0h-13.4v3.3h13.4V0Z"/>
+      <path id="Rectangle_46" data-name="Rectangle 46" class="cls-3" d="m76.7,13.3h-3.4v20h3.4V13.3Z"/>
+      <path id="Rectangle_877" data-name="Rectangle 877" class="cls-3" d="m80,16.7h-3.3v13.3h3.3v-13.3Z"/>
+      <path id="Rectangle_48" data-name="Rectangle 48" class="cls-3" d="m73.3,13.3h-3.3v20h3.3V13.3Z"/>
+      <path id="Rectangle_37" data-name="Rectangle 37" class="cls-3" d="m73.3,36.7h-3.3v3.3h3.3v-3.3Z"/>
+      <path id="Rectangle_53" data-name="Rectangle 53" class="cls-3" d="m70,36.7h-3.3v3.3h3.3v-3.3Z"/>
+      <path id="Rectangle_49" data-name="Rectangle 49" class="cls-3" d="m66.7,33.3h-3.4v6.7h3.4v-6.7Z"/>
+      <path id="Rectangle_50" data-name="Rectangle 50" class="cls-3" d="m70,13.3h-3.3v16.7h3.3V13.3Z"/>
+      <path id="Rectangle_52" data-name="Rectangle 52" class="cls-3" d="m66.7,13.3h-3.4v16.7h3.4V13.3Z"/>
+      <path id="Rectangle_54" data-name="Rectangle 54" class="cls-3" d="m63.3,13.3h-6.6v26.7h6.6V13.3Z"/>
+      <path id="Rectangle_30" data-name="Rectangle 30" class="cls-2" d="m53.3,23.3h-6.6v6.7h6.6v-6.7Z"/>
+      <path id="Rectangle_31" data-name="Rectangle 31" class="cls-2" d="m50,26.7h-6.7v6.6h6.7v-6.6Z"/>
+      <path id="Rectangle_32" data-name="Rectangle 32" class="cls-2" d="m46.7,30h-6.7v6.7h6.7v-6.7Z"/>
+      <path id="Rectangle_33" data-name="Rectangle 33" class="cls-2" d="m40,30h-3.3v3.3h3.3v-3.3Z"/>
+      <path id="Rectangle_34" data-name="Rectangle 34" class="cls-2" d="m43.3,26.7h-3.3v3.3h3.3v-3.3Z"/>
+      <path id="Rectangle_872" data-name="Rectangle 872" class="cls-3" d="m20,20h-3.3v13.3h3.3v-13.3Z"/>
+      <path id="Rectangle_873" data-name="Rectangle 873" class="cls-3" d="m13.3,13.3h-6.6v23.4h6.6V13.3Z"/>
+      <path id="Rectangle_879" data-name="Rectangle 879" class="cls-3" d="m16.7,16.7h-3.4v16.6h3.4v-16.6Z"/>
+      <path id="Rectangle_874" data-name="Rectangle 874" class="cls-3" d="m6.7,26.7h-3.4v16.6h3.4v-16.6Z"/>
+      <path id="Rectangle_878" data-name="Rectangle 878" class="cls-3" d="m6.7,6.7h-3.4v16.6h3.4V6.7Z"/>
+      <path id="Rectangle_875" data-name="Rectangle 875" class="cls-3" d="m3.3,6.7H0v10h3.3V6.7Z"/>
+      <path id="Rectangle_876" data-name="Rectangle 876" class="cls-3" d="m3.3,33.3H0v10h3.3v-10Z"/>
+      <path id="Rectangle_880" data-name="Rectangle 880" class="cls-1" d="m70,16.7h-6.7v6.6h6.7v-6.6Z"/>
+    </g>
+  </g>
+</svg>

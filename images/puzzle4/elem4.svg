@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff0ca;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #e4a987;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="shell">
+      <g id="Group_62" data-name="Group 62">
+        <path id="Rectangle_422" data-name="Rectangle 422" class="cls-1" d="m3,3h33v33H3V3Z"/>
+        <path id="Rectangle_423" data-name="Rectangle 423" class="cls-1" d="m9,0h21v3H9V0Z"/>
+        <path id="Rectangle_424" data-name="Rectangle 424" class="cls-1" d="m9,36h21v3H9v-3Z"/>
+        <path id="Rectangle_425" data-name="Rectangle 425" class="cls-1" d="m36,30V9h3v21h-3Z"/>
+        <path id="Rectangle_426" data-name="Rectangle 426" class="cls-1" d="m0,30V9h3v21H0Z"/>
+        <path id="Rectangle_427" data-name="Rectangle 427" class="cls-2" d="m9,6h21v3H9v-3Z"/>
+        <path id="Rectangle_428" data-name="Rectangle 428" class="cls-2" d="m9,9v21h-3V9h3Z"/>
+        <path id="Rectangle_429" data-name="Rectangle 429" class="cls-2" d="m30,33H9v-3h21v3Z"/>
+        <path id="Rectangle_430" data-name="Rectangle 430" class="cls-2" d="m30,30v-15h3v15h-3Z"/>
+        <path id="Rectangle_431" data-name="Rectangle 431" class="cls-2" d="m15,12h15v3h-15v-3Z"/>
+        <path id="Rectangle_432" data-name="Rectangle 432" class="cls-2" d="m15,15v9h-3v-9h3Z"/>
+        <path id="Rectangle_433" data-name="Rectangle 433" class="cls-2" d="m24,27h-9v-3h9v3Z"/>
+        <path id="Rectangle_434" data-name="Rectangle 434" class="cls-2" d="m24,24v-3h3v3h-3Z"/>
+        <path id="Rectangle_435" data-name="Rectangle 435" class="cls-2" d="m18,21v-3h6v3h-6Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

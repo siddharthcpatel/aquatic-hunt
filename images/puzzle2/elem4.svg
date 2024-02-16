@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.5 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e8bff;
+        opacity: .2;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #ff7a00;
+      }
+
+      .cls-4 {
+        fill: #ff5a5a;
+      }
+
+      .cls-5, .cls-7 {
+        fill: #685043;
+      }
+
+      .cls-6 {
+        fill: #9a3434;
+      }
+
+      .cls-7 {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="autumn_meadowhawk" data-name="autumn meadowhawk">
+      <path id="Rectangle_956" data-name="Rectangle 956" class="cls-3" d="m30,16.5h-7.5v1.5h7.5v-1.5Z"/>
+      <path id="Rectangle_947" data-name="Rectangle 947" class="cls-6" d="m33,15h-3v3h3v-3Z"/>
+      <path id="Rectangle_944" data-name="Rectangle 944" class="cls-3" d="m19.5,19.5h-4.5v1.5h4.5v-1.5Z"/>
+      <path id="Rectangle_958" data-name="Rectangle 958" class="cls-3" d="m12,19.5h-4.5v1.5h4.5v-1.5Z"/>
+      <path id="Rectangle_945" data-name="Rectangle 945" class="cls-2" d="m4.5,19.5H1.5v3h3v-3Z"/>
+      <path id="Rectangle_962" data-name="Rectangle 962" class="cls-2" d="m1.5,21H0v1.5h1.5v-1.5Z"/>
+      <path id="Rectangle_963" data-name="Rectangle 963" class="cls-2" d="m7.5,21h-3v-1.5h3v1.5Z"/>
+      <path id="Rectangle_948" data-name="Rectangle 948" class="cls-5" d="m31.5,22.5h-1.5v4.5h1.5v-4.5Z"/>
+      <path id="Rectangle_952" data-name="Rectangle 952" class="cls-7" d="m33,22.5h-1.5v3h1.5v-3Z"/>
+      <path id="Rectangle_954" data-name="Rectangle 954" class="cls-7" d="m27,21h-1.5v4.5h1.5v-4.5Z"/>
+      <path id="Rectangle_949" data-name="Rectangle 949" class="cls-5" d="m33,25.5h-1.5v4.5h1.5v-4.5Z"/>
+      <path id="Rectangle_953" data-name="Rectangle 953" class="cls-7" d="m34.5,24h-1.5v4.5h1.5v-4.5Z"/>
+      <path id="Rectangle_955" data-name="Rectangle 955" class="cls-7" d="m28.5,25.5h-1.5v3h1.5v-3Z"/>
+      <path id="Rectangle_950" data-name="Rectangle 950" class="cls-5" d="m25.5,22.5h-1.5v4.5h1.5v-4.5Z"/>
+      <path id="Rectangle_951" data-name="Rectangle 951" class="cls-5" d="m27,25.5h-1.5v4.5h1.5v-4.5Z"/>
+      <path id="Rectangle_943" data-name="Rectangle 943" class="cls-2" d="m31.5,18h-12v4.5h12v-4.5Z"/>
+      <path id="Rectangle_959" data-name="Rectangle 959" class="cls-3" d="m31.5,18h-7.5v1.5h7.5v-1.5Z"/>
+      <path id="Rectangle_960" data-name="Rectangle 960" class="cls-3" d="m33,19.5h-6v1.5h6v-1.5Z"/>
+      <path id="Rectangle_961" data-name="Rectangle 961" class="cls-2" d="m28.5,22.5h-6v1.5h6v-1.5Z"/>
+      <g id="Group_101" data-name="Group 101">
+        <path id="Rectangle_964" data-name="Rectangle 964" class="cls-1" d="m28.5,12h-1.5v4.5h1.5v-4.5Z"/>
+        <path id="Rectangle_965" data-name="Rectangle 965" class="cls-1" d="m27,7.5h-1.5v4.5h1.5v-4.5Z"/>
+        <path id="Rectangle_966" data-name="Rectangle 966" class="cls-1" d="m25.5,4.5h-1.5v3h1.5v-3Z"/>
+        <path id="Rectangle_967" data-name="Rectangle 967" class="cls-1" d="m24,3h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_968" data-name="Rectangle 968" class="cls-1" d="m22.5,1.5h-3v1.5h3v-1.5Z"/>
+        <path id="Rectangle_969" data-name="Rectangle 969" class="cls-1" d="m19.5,0h-4.5v1.5h4.5V0Z"/>
+        <path id="Rectangle_971" data-name="Rectangle 971" class="cls-1" d="m15,1.5h-1.5v3h1.5V1.5Z"/>
+        <path id="Rectangle_972" data-name="Rectangle 972" class="cls-1" d="m16.5,4.5h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_973" data-name="Rectangle 973" class="cls-1" d="m18,6h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_974" data-name="Rectangle 974" class="cls-1" d="m19.5,7.5h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_975" data-name="Rectangle 975" class="cls-1" d="m21,9h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_976" data-name="Rectangle 976" class="cls-1" d="m22.5,10.5h-1.5v3h1.5v-3Z"/>
+        <path id="Rectangle_977" data-name="Rectangle 977" class="cls-1" d="m25.5,15h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_978" data-name="Rectangle 978" class="cls-1" d="m24,13.5h-1.5v1.5h1.5v-1.5Z"/>
+      </g>
+      <g id="Group_102" data-name="Group 102">
+        <path id="Rectangle_979" data-name="Rectangle 979" class="cls-1" d="m21,15h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_991" data-name="Rectangle 991" class="cls-1" d="m22.5,16.5h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_980" data-name="Rectangle 980" class="cls-1" d="m19.5,12h-1.5v3h1.5v-3Z"/>
+        <path id="Rectangle_981" data-name="Rectangle 981" class="cls-1" d="m18,10.5h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_982" data-name="Rectangle 982" class="cls-1" d="m16.5,9h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_983" data-name="Rectangle 983" class="cls-1" d="m15,7.5h-4.5v1.5h4.5v-1.5Z"/>
+        <path id="Rectangle_985" data-name="Rectangle 985" class="cls-1" d="m10.5,9h-1.5v3h1.5v-3Z"/>
+        <path id="Rectangle_986" data-name="Rectangle 986" class="cls-1" d="m13.5,12h-3v1.5h3v-1.5Z"/>
+        <path id="Rectangle_987" data-name="Rectangle 987" class="cls-1" d="m15,13.5h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_988" data-name="Rectangle 988" class="cls-1" d="m16.5,15h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_989" data-name="Rectangle 989" class="cls-1" d="m18,16.5h-1.5v1.5h1.5v-1.5Z"/>
+        <path id="Rectangle_990" data-name="Rectangle 990" class="cls-1" d="m19.5,18h-1.5v1.5h1.5v-1.5Z"/>
+      </g>
+      <path id="Rectangle_957" data-name="Rectangle 957" class="cls-2" d="m16.5,18h-6v1.5h6v-1.5Z"/>
+      <path id="Rectangle_946" data-name="Rectangle 946" class="cls-4" d="m34.5,16.5h-3v3h3v-3Z"/>
+    </g>
+  </g>
+</svg>

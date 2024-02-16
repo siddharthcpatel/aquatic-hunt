@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #99bca5;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #103c1f;
+      }
+
+      .cls-3 {
+        fill: #b2d783;
+      }
+
+      .cls-4 {
+        fill: #e2f6c8;
+      }
+    </style>
+  </defs>
+  <g id="Coral_Reef" data-name="Coral Reef">
+    <g id="sea_cucumber" data-name="sea cucumber">
+      <path id="Rectangle_358" data-name="Rectangle 358" class="cls-2" d="M20,40h20v50h-20v-50Z"/>
+      <path id="Rectangle_377" data-name="Rectangle 377" class="cls-2" d="M10,40h10v40h-10v-40Z"/>
+      <path id="Rectangle_378" data-name="Rectangle 378" class="cls-1" d="M10,80h10v10h-10v-10Z"/>
+      <path id="Rectangle_362" data-name="Rectangle 362" class="cls-2" d="M40,70h10v20h-10v-20Z"/>
+      <path id="Rectangle_390" data-name="Rectangle 390" class="cls-2" d="M50,80h10v10h-10v-10Z"/>
+      <path id="Rectangle_367" data-name="Rectangle 367" class="cls-2" d="M40,30h10v20h-10v-20Z"/>
+      <path id="Rectangle_359" data-name="Rectangle 359" class="cls-2" d="M20,30h10v10h-10v-10Z"/>
+      <path id="Rectangle_360" data-name="Rectangle 360" class="cls-1" d="M10,20h10v20h-10v-20Z"/>
+      <path id="Rectangle_361" data-name="Rectangle 361" class="cls-1" d="M0,30h10v50H0V30Z"/>
+      <path id="Rectangle_363" data-name="Rectangle 363" class="cls-3" d="M20,20h20v10h-20v-10Z"/>
+      <path id="Rectangle_365" data-name="Rectangle 365" class="cls-3" d="M30,10h20v10h-20v-10Z"/>
+      <path id="Rectangle_366" data-name="Rectangle 366" class="cls-4" d="M40,0h10v10h-10V0Z"/>
+      <path id="Rectangle_364" data-name="Rectangle 364" class="cls-3" d="M30,30h10v10h-10v-10Z"/>
+    </g>
+  </g>
+</svg>

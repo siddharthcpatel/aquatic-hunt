@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 138">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #4f0002;
+      }
+
+      .cls-3 {
+        fill: #d9d9d9;
+      }
+
+      .cls-4 {
+        fill: #b45d4c;
+      }
+
+      .cls-5 {
+        fill: #ffb588;
+      }
+
+      .cls-6 {
+        fill: #6b0505;
+      }
+    </style>
+  </defs>
+  <g id="Coral_Reef" data-name="Coral Reef">
+    <g id="seahorse">
+      <path id="Rectangle_1788" data-name="Rectangle 1788" class="cls-6" d="M42,30h24v54h-24V30h0Z"/>
+      <path id="Rectangle_1789" data-name="Rectangle 1789" class="cls-6" d="M36,48h6v36h-6v-36Z"/>
+      <path id="Rectangle_1794" data-name="Rectangle 1794" class="cls-6" d="M66,90h-6v30h6v-30Z"/>
+      <path id="Rectangle_1796" data-name="Rectangle 1796" class="cls-6" d="M60,114h-6v18h6v-18Z"/>
+      <path id="Rectangle_1797" data-name="Rectangle 1797" class="cls-6" d="M54,120h-24v12h24v-12Z"/>
+      <path id="Rectangle_1809" data-name="Rectangle 1809" class="cls-6" d="M30,120h-12v12h12v-12Z"/>
+      <path id="Rectangle_1851" data-name="Rectangle 1851" class="cls-6" d="M48,132h-24v6h24v-6Z"/>
+      <path id="Rectangle_1810" data-name="Rectangle 1810" class="cls-4" d="M66,120h-6v6h6v-6Z"/>
+      <path id="Rectangle_1811" data-name="Rectangle 1811" class="cls-4" d="M66,126h-6v6h6v-6Z"/>
+      <path id="Rectangle_1812" data-name="Rectangle 1812" class="cls-5" d="M72,132h-6v6h6v-6Z"/>
+      <path id="Rectangle_1813" data-name="Rectangle 1813" class="cls-4" d="M72,114h-6v6h6v-6Z"/>
+      <path id="Rectangle_1814" data-name="Rectangle 1814" class="cls-5" d="M78,120h-6v6h6v-6Z"/>
+      <path id="Rectangle_1815" data-name="Rectangle 1815" class="cls-4" d="M78,102h-6v6h6v-6Z"/>
+      <path id="Rectangle_1816" data-name="Rectangle 1816" class="cls-5" d="M84,108h-6v6h6v-6Z"/>
+      <path id="Rectangle_1817" data-name="Rectangle 1817" class="cls-3" d="M78,72h-6v18h6v-18Z"/>
+      <path id="Rectangle_1818" data-name="Rectangle 1818" class="cls-4" d="M78,72h-6v18h6v-18Z"/>
+      <path id="Rectangle_1819" data-name="Rectangle 1819" class="cls-4" d="M78,42h-6v18h6v-18Z"/>
+      <path id="Rectangle_1820" data-name="Rectangle 1820" class="cls-4" d="M72,24h-6v12h6v-12Z"/>
+      <path id="Rectangle_1821" data-name="Rectangle 1821" class="cls-5" d="M78,18h-6v6h6v-6Z"/>
+      <path id="Rectangle_1841" data-name="Rectangle 1841" class="cls-5" d="M84,36h-6v6h6v-6Z"/>
+      <path id="Rectangle_1842" data-name="Rectangle 1842" class="cls-5" d="M84,66h-6v6h6v-6Z"/>
+      <path id="Rectangle_1822" data-name="Rectangle 1822" class="cls-5" d="M66,12h-6v6h6v-6Z"/>
+      <path id="Rectangle_1823" data-name="Rectangle 1823" class="cls-4" d="M54,12h-6v6h6v-6Z"/>
+      <path id="Rectangle_1824" data-name="Rectangle 1824" class="cls-4" d="M42,12h-6v6h6v-6Z"/>
+      <path id="Rectangle_1825" data-name="Rectangle 1825" class="cls-4" d="M42,6h-6v6h6v-6Z"/>
+      <path id="Rectangle_1826" data-name="Rectangle 1826" class="cls-5" d="M48,0h-6v6h6V0Z"/>
+      <path id="Rectangle_1827" data-name="Rectangle 1827" class="cls-4" d="M30,12h-12v6h12v-6Z"/>
+      <path id="Rectangle_1830" data-name="Rectangle 1830" class="cls-4" d="M18,24H6v6h12v-6Z"/>
+      <path id="Rectangle_1831" data-name="Rectangle 1831" class="cls-5" d="M6,18H0v6h6v-6Z"/>
+      <path id="Rectangle_1828" data-name="Rectangle 1828" class="cls-4" d="M24,6h-12v6h12v-6Z"/>
+      <path id="Rectangle_1829" data-name="Rectangle 1829" class="cls-5" d="M30,0h-12v6h12V0Z"/>
+      <path id="Rectangle_1798" data-name="Rectangle 1798" class="cls-6" d="M30,108h-12v12h12v-12Z"/>
+      <path id="Rectangle_1832" data-name="Rectangle 1832" class="cls-6" d="M42,108h-6v6h6v-6Z"/>
+      <path id="Rectangle_1799" data-name="Rectangle 1799" class="cls-6" d="M30,96h-12v12h12v-12Z"/>
+      <path id="Rectangle_1852" data-name="Rectangle 1852" class="cls-6" d="M18,102h-6v24h6v-24Z"/>
+      <path id="Rectangle_1800" data-name="Rectangle 1800" class="cls-6" d="M36,96h-6v6h6v-6Z"/>
+      <path id="Rectangle_1849" data-name="Rectangle 1849" class="cls-6" d="M42,90h-12v6h12v-6Z"/>
+      <path id="Rectangle_1801" data-name="Rectangle 1801" class="cls-6" d="M42,96h-6v6h6v-6Z"/>
+      <path id="Rectangle_1802" data-name="Rectangle 1802" class="cls-6" d="M48,96h-6v12h6v-12Z"/>
+      <path id="Rectangle_1804" data-name="Rectangle 1804" class="cls-6" d="M48,108h-6v6h6v-6Z"/>
+      <path id="Rectangle_1795" data-name="Rectangle 1795" class="cls-6" d="M60,90h-6v6h6v-6Z"/>
+      <path id="Rectangle_1793" data-name="Rectangle 1793" class="cls-6" d="M66,42h6v72h-6V42Z"/>
+      <path id="Rectangle_1790" data-name="Rectangle 1790" class="cls-6" d="M24,18h12v6h-12v-6Z"/>
+      <path id="Rectangle_1833" data-name="Rectangle 1833" class="cls-2" d="M30,24h6v18h-6v-18Z"/>
+      <path id="Rectangle_1834" data-name="Rectangle 1834" class="cls-2" d="M36,36h6v12h-6v-12Z"/>
+      <path id="Rectangle_1835" data-name="Rectangle 1835" class="cls-2" d="M30,48h6v36h-6v-36Z"/>
+      <path id="Rectangle_1843" data-name="Rectangle 1843" class="cls-2" d="M18,18h6v36h-6V18Z"/>
+      <path id="Rectangle_1844" data-name="Rectangle 1844" class="cls-2" d="M24,24h6v24h-6v-24Z"/>
+      <path id="Rectangle_1845" data-name="Rectangle 1845" class="cls-2" d="M12,30h6v12h-6v-12Z"/>
+      <path id="Rectangle_1846" data-name="Rectangle 1846" class="cls-2" d="M12,54h12v6h-12v-6Z"/>
+      <path id="Rectangle_1847" data-name="Rectangle 1847" class="cls-2" d="M12,60h12v6h-12v-6Z"/>
+      <path id="Rectangle_1836" data-name="Rectangle 1836" class="cls-2" d="M36,84h6v6h-6v-6Z"/>
+      <path id="Rectangle_1837" data-name="Rectangle 1837" class="cls-2" d="M48,90h6v6h-6v-6Z"/>
+      <path id="Rectangle_1839" data-name="Rectangle 1839" class="cls-2" d="M42,84h6v6h-6v-6Z"/>
+      <path id="Rectangle_1840" data-name="Rectangle 1840" class="cls-6" d="M48,84h18v6h-18v-6h0Z"/>
+      <path id="Rectangle_1838" data-name="Rectangle 1838" class="cls-2" d="M54,96h6v18h-6v-18h0Z"/>
+      <path id="Rectangle_1791" data-name="Rectangle 1791" class="cls-6" d="M36,18h6v18h-6v-18Z"/>
+      <path id="Rectangle_1792" data-name="Rectangle 1792" class="cls-6" d="M42,18h18v12h-18v-12h0Z"/>
+      <path id="Rectangle_1848" data-name="Rectangle 1848" class="cls-1" d="M24,30h6v6h-6v-6Z"/>
+    </g>
+  </g>
+</svg>

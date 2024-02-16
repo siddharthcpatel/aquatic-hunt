@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1024" style="enable-background:new 0 0 1920 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#041A26;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#0E8BFF;}
+	.st2{fill:#F6E39F;}
+	.st3{fill:#665142;}
+	.st4{fill:#685043;}
+	.st5{fill:#2C7D48;}
+	.st6{fill:#3B9B5C;}
+	.st7{fill:#815C47;}
+	.st8{fill:#898989;}
+	.st9{fill:#9D9D9D;}
+	.st10{fill:#BFE8FF;}
+	.st11{fill:#FFFFFF;}
+	.st12{fill:#FFF383;}
+	.st13{fill:#E4CC10;}
+	.st14{fill:#AB7E65;}
+	.st15{fill:#212121;}
+	.st16{fill:#FFE927;}
+	.st17{fill:#F2DD6C;}
+	.st18{fill:#8A2626;}
+	.st19{fill:#00FFF0;}
+	.st20{fill:#CAFFFC;}
+	.st21{fill:#74FFF7;}
+	.st22{fill:#E2CF89;}
+	.st23{fill:#FFF0CA;}
+	.st24{fill:#E4A987;}
+	.st25{fill:#BA1714;}
+	.st26{fill:#E85E5C;}
+	.st27{fill:#FF8886;}
+	.st28{fill:#FFE1BD;}
+	.st29{fill:#DBB68A;}
+	.st30{fill:#323232;}
+</style>
+<rect id="background" class="st0" width="1920" height="1024"/>
+<g id="water">
+	<path id="Rectangle_1361" class="st1" d="M0,599h1920v425H0V599z"/>
+	<path id="Rectangle_1427" class="st2" d="M0,599h565v425H0V599z"/>
+	<path id="Rectangle_1428" class="st2" d="M565,784h1355v240H565V784z"/>
+	<path id="Rectangle_1431" class="st2" d="M1670,734h250v50h-250V734z"/>
+	<path id="Rectangle_1432" class="st2" d="M565,734h300v50H565V734z"/>
+	<path id="Rectangle_1439" class="st2" d="M565,684h120v50H565V684z"/>
+	<path id="Rectangle_1438" class="st1" d="M1550,569h370v30h-370V569z"/>
+	<path id="Rectangle_1433" class="st2" d="M0,549h300v50H0V549z"/>
+	<path id="Rectangle_1434" class="st3" d="M0,849h300v175H0V849z"/>
+	<path id="Rectangle_1435" class="st3" d="M298,899h300v125H298V899z"/>
+	<path id="Rectangle_1437" class="st3" d="M1426,899h300v50h-300V899z"/>
+	<path id="Rectangle_1436" class="st3" d="M596,949h1324v75H596V949z"/>
+	<g id="Group_265">
+		<g id="Group_161">
+			<path id="Rectangle_1364" class="st4" d="M398,374h25v225h-25V374z"/>
+			<path id="Rectangle_1405" class="st4" d="M373,449h25v150h-25V449z"/>
+			<path id="Rectangle_1406" class="st4" d="M348,549h25v50h-25V549z"/>
+			<path id="Rectangle_1366" class="st4" d="M448,274h25v125h-25V274z"/>
+			<path id="Rectangle_1404" class="st4" d="M423,324h25v175h-25V324z"/>
+			<path id="Rectangle_1403" class="st4" d="M473,299h25v25h-25V299z"/>
+			<path id="Rectangle_1367" class="st4" d="M473,249h50v50h-50V249z"/>
+			<path id="Rectangle_1368" class="st4" d="M498,199h50v50h-50V199z"/>
+			<path id="Rectangle_1369" class="st4" d="M498,174h50v25h-50V174z"/>
+			<path id="Rectangle_1391" class="st4" d="M523,149h50v25h-50V149z"/>
+			<path id="Rectangle_1370" class="st5" d="M573,149h75v25h-75V149z"/>
+			<path id="Rectangle_1377" class="st5" d="M523,124h-75v25h75V124z"/>
+			<path id="Rectangle_1401" class="st5" d="M598,74h75v25h-75V74z"/>
+			<path id="Rectangle_1402" class="st5" d="M598,124h25v25h-25V124z"/>
+			<path id="Rectangle_1380" class="st5" d="M498,49h-75v25h75V49z"/>
+			<path id="Rectangle_1383" class="st5" d="M548,74h-50v25h50V74z"/>
+			<path id="Rectangle_1398" class="st5" d="M523,99h-25v25h25V99z"/>
+			<path id="Rectangle_1376" class="st5" d="M523,99h75v25h-75V99z"/>
+			<path id="Rectangle_1371" class="st5" d="M648,174h75v25h-75V174z"/>
+			<path id="Rectangle_1410" class="st6" d="M648,199h75v25h-75V199z"/>
+			<path id="Rectangle_1416" class="st6" d="M673,124h75v25h-75V124z"/>
+			<path id="Rectangle_1417" class="st6" d="M598,99h75v25h-75V99z"/>
+			<path id="Rectangle_1426" class="st6" d="M523,124h75v25h-75V124z"/>
+			<path id="Rectangle_1411" class="st6" d="M573,174h75v25h-75V174z"/>
+			<path id="Rectangle_1412" class="st6" d="M573,224h25v25h-25V224z"/>
+			<path id="Rectangle_1413" class="st6" d="M598,249h50v25h-50V249z"/>
+			<path id="Rectangle_1414" class="st6" d="M648,274h25v25h-25V274z"/>
+			<path id="Rectangle_1418" class="st6" d="M423,249h25v25h-25V249z"/>
+			<path id="Rectangle_1419" class="st6" d="M448,224h50v25h-50V224z"/>
+			<path id="Rectangle_1420" class="st6" d="M348,199h25v25h-25V199z"/>
+			<path id="Rectangle_1421" class="st6" d="M373,174h75v25h-75V174z"/>
+			<path id="Rectangle_1422" class="st6" d="M448,149h75v25h-75V149z"/>
+			<path id="Rectangle_1423" class="st6" d="M423,74h75v25h-75V74z"/>
+			<path id="Rectangle_1424" class="st6" d="M348,99h75v25h-75V99z"/>
+			<path id="Rectangle_1425" class="st6" d="M323,124h25v25h-25V124z"/>
+			<path id="Rectangle_1384" class="st5" d="M573,199h25v25h-25V199z"/>
+			<path id="Rectangle_1393" class="st5" d="M523,174h-25v50h25V174z"/>
+			<path id="Rectangle_1390" class="st5" d="M548,149h25v75h-25V149z"/>
+			<path id="Rectangle_1394" class="st5" d="M548,149h-25v50h25V149z"/>
+			<path id="Rectangle_1385" class="st5" d="M598,199h25v25h-25V199z"/>
+			<path id="Rectangle_1395" class="st5" d="M498,174h-25v50h25V174z"/>
+			<path id="Rectangle_1386" class="st5" d="M598,224h50v25h-50V224z"/>
+			<path id="Rectangle_1396" class="st5" d="M473,199h-25v25h25V199z"/>
+			<path id="Rectangle_1392" class="st5" d="M648,249h25v25h-25V249z"/>
+			<path id="Rectangle_1397" class="st5" d="M448,224h-25v25h25V224z"/>
+			<path id="Rectangle_1378" class="st5" d="M448,149h-75v25h75V149z"/>
+			<path id="Rectangle_1374" class="st5" d="M673,99h75v25h-75V99z"/>
+			<path id="Rectangle_1381" class="st5" d="M423,74h-75v25h75V74z"/>
+			<path id="Rectangle_1372" class="st5" d="M723,199h25v25h-25V199z"/>
+			<path id="Rectangle_1407" class="st5" d="M748,224h25v25h-25V224z"/>
+			<path id="Rectangle_1408" class="st6" d="M748,249h25v25h-25V249z"/>
+			<path id="Rectangle_1415" class="st6" d="M748,149h25v25h-25V149z"/>
+			<path id="Rectangle_1409" class="st6" d="M723,224h25v25h-25V224z"/>
+			<path id="Rectangle_1379" class="st5" d="M373,174h-25v25h25V174z"/>
+			<path id="Rectangle_1375" class="st5" d="M748,124h25v25h-25V124z"/>
+			<path id="Rectangle_1382" class="st5" d="M348,99h-25v25h25V99z"/>
+			<path id="Rectangle_1400" class="st7" d="M548,199h25v25h-25V199z"/>
+		</g>
+		<g id="Group_162">
+			<path id="Rectangle_1366_00000179604780237242705020000002915836863251287429_" class="st4" d="M1920,245h-35v175h35V245z"/>
+			<path id="Rectangle_1403_00000121972487640836455490000002460163173141887394_" class="st4" d="M1885,280h-35v35h35V280z"/>
+			<path id="Rectangle_1367_00000015337783943585110130000011345155459497588902_" class="st4" d="M1885,210h-70v70h70V210z"/>
+			<path id="Rectangle_1368_00000028324989561826863650000018411952779003375025_" class="st4" d="M1850,140h-70v70h70V140z"/>
+			<path id="Rectangle_1369_00000088133770910722966700000011490105972845291710_" class="st4" d="M1850,105h-70v35h70V105z"/>
+			<path id="Rectangle_1391_00000154409365824039107900000008415469530162481329_" class="st4" d="M1815,70h-70v35h70V70z"/>
+			<path id="Rectangle_1370_00000036959806096995927690000018234355049605363128_" class="st5" d="M1745,70h-105v35h105V70z"/>
+			<path id="Rectangle_1377_00000078046107503104934840000007193963097449757374_" class="st5" d="M1815,35h105v35h-105V35z"/>
+			<path id="Rectangle_1402_00000150103615774065097660000002231599326666698396_" class="st5" d="M1710,35h-35v35h35V35z"/>
+			<path id="Rectangle_1398_00000060714712051572648530000000164900163428920244_" class="st5" d="M1815,0h35v35h-35V0z"/>
+			<path id="Rectangle_1376_00000139268880642650334590000007186457316845563556_" class="st5" d="M1815,0h-105v35h105V0z"/>
+			<path id="Rectangle_1371_00000023991386228144825490000014200447190665541558_" class="st5" d="M1640,105h-105v35h105V105z"/>
+			<path id="Rectangle_1410_00000111177726273915561910000006900780476545457545_" class="st6" d="M1640,140h-105v35h105V140z"/>
+			<path id="Rectangle_1416_00000031891614674605854090000014656062375831552438_" class="st6" d="M1605,35h-105v35h105V35z"/>
+			<path id="Rectangle_1417_00000124856039261364237420000007796470176029679514_" class="st6" d="M1710,0h-105v35h105V0z"/>
+			<path id="Rectangle_1426_00000179611763517804686250000008501317111145760392_" class="st6" d="M1815,35h-105v35h105V35z"/>
+			<path id="Rectangle_1411_00000023969839336149052770000006565327635213631364_" class="st6" d="M1745,105h-105v35h105V105z"/>
+			<path id="Rectangle_1412_00000111884937276265787970000009808975516254666885_" class="st6" d="M1745,175h-35v35h35V175z"/>
+			<path id="Rectangle_1413_00000103258142023711439090000011128934663849871765_" class="st6" d="M1710,210h-70v35h70V210z"/>
+			<path id="Rectangle_1414_00000087373327027652522580000004710466423034661809_" class="st6" d="M1640,245h-35v35h35V245z"/>
+			<path id="Rectangle_1419_00000014614604870596966910000000916812856924211636_" class="st6" d="M1920,175h-70v35h70V175z"/>
+			<path id="Rectangle_1422_00000073687773202826608610000016128172565799987114_" class="st6" d="M1920,70h-105v35h105V70z"/>
+			<path id="Rectangle_1384_00000098922999145798666900000011469095637305533620_" class="st5" d="M1745,140h-35v35h35V140z"/>
+			<path id="Rectangle_1393_00000052797305309592759830000000478387710430309817_" class="st5" d="M1815,105h35v70h-35V105z"/>
+			<path id="Rectangle_1390_00000025424733037526800320000000005956569005038523_" class="st5" d="M1780,70h-35v105h35V70z"/>
+			<path id="Rectangle_1394_00000028289050764848965620000012275571494435583926_" class="st5" d="M1780,70h35v70h-35V70z"/>
+			<path id="Rectangle_1385_00000009579071094067621940000003636321262785204379_" class="st5" d="M1710,140h-35v35h35V140z"/>
+			<path id="Rectangle_1395_00000132767251160792328920000018205893319581526948_" class="st5" d="M1850,105h35v70h-35V105z"/>
+			<path id="Rectangle_1386_00000095321775856083830250000001480243754626263446_" class="st5" d="M1710,175h-70v35h70V175z"/>
+			<path id="Rectangle_1396_00000147193460540962355220000011533923744126408342_" class="st5" d="M1885,140h35v35h-35V140z"/>
+			<path id="Rectangle_1392_00000047052202032414151410000006962167515383232148_" class="st5" d="M1640,210h-35v35h35V210z"/>
+			<path id="Rectangle_1374_00000059993348745354247740000002391605162393407162_" class="st5" d="M1605,0h-105v35h105V0z"/>
+			<path id="Rectangle_1372_00000020365630150280348850000000171561443393199004_" class="st5" d="M1535,140h-35v35h35V140z"/>
+			<path id="Rectangle_1407_00000119097185448115833980000007531867815913640065_" class="st5" d="M1500,175h-35v35h35V175z"/>
+			<path id="Rectangle_1408_00000149371270086007810470000009420592808864075966_" class="st6" d="M1500,210h-35v35h35V210z"/>
+			<path id="Rectangle_1415_00000063605385148162325460000005906372513449567918_" class="st6" d="M1500,70h-35v35h35V70z"/>
+			<path id="Rectangle_1409_00000180333505376588594700000007408086248653979562_" class="st6" d="M1535,175h-35v35h35V175z"/>
+			<path id="Rectangle_1375_00000088844229585645881800000006454919743397696899_" class="st5" d="M1500,35h-35v35h35V35z"/>
+			<path id="Rectangle_1399" class="st7" d="M1885,105h-70v70h70V105z"/>
+			<path id="Rectangle_1400_00000038386030964782805110000012608074631262625678_" class="st7" d="M1780,140h-35v35h35V140z"/>
+		</g>
+		<g id="Group_163">
+			<path id="Rectangle_1315" class="st8" d="M1330,684h320v100h-320V684z"/>
+			<path id="Rectangle_1316" class="st8" d="M1390,644h200v40h-200V644z"/>
+			<path id="Rectangle_1317" class="st8" d="M1310,724h20v60h-20V724z"/>
+			<path id="Rectangle_1318" class="st8" d="M1650,724h20v60h-20V724z"/>
+			<path id="Rectangle_1319" class="st9" d="M1510,644h80v20h-80V644z"/>
+			<path id="Rectangle_1320" class="st9" d="M1590,684h60v20h-60V684z"/>
+			<path id="Rectangle_1321" class="st9" d="M1650,784h20v-60h-20V784z"/>
+			<path id="Rectangle_1322" class="st9" d="M1630,744h20v-40h-20V744z"/>
+			<path id="Rectangle_1323" class="st9" d="M1570,704h20v-40h-20V704z"/>
+			<path id="Rectangle_1324" class="st9" d="M1530,704h20v-20h-20V704z"/>
+			<path id="Rectangle_1325" class="st9" d="M1570,744h40v-20h-40V744z"/>
+		</g>
+		<g id="Group_263">
+			<path id="Rectangle_2398" class="st5" d="M55,42h80v27H55V42z"/>
+			<path id="Rectangle_2406" class="st5" d="M29,0h80v16H29V0z"/>
+			<path id="Rectangle_2400" class="st6" d="M135,69H55v27h80V69z"/>
+			<path id="Rectangle_2407" class="st6" d="M162,0H82v16h80V0z"/>
+			<path id="Rectangle_2401" class="st6" d="M215,96h-80v26h80V96z"/>
+			<path id="Rectangle_2408" class="st6" d="M242,15.7h-80v26.6h80V15.7z"/>
+			<path id="Rectangle_2402" class="st6" d="M242,122h-27v27h27V122z"/>
+			<path id="Rectangle_2409" class="st6" d="M268.7,42.3H242V69h26.7V42.3z"/>
+			<path id="Rectangle_2416" class="st6" d="M322,0h-27v16h27V0z"/>
+			<path id="Rectangle_2403" class="st5" d="M135,69h80v27h-80V69z"/>
+			<path id="Rectangle_2410" class="st5" d="M162,0h80v16h-80V0z"/>
+			<path id="Rectangle_2404" class="st5" d="M215,96h27v26h-27V96z"/>
+			<path id="Rectangle_2411" class="st5" d="M242,15.7h26.7v26.6H242L242,15.7z"/>
+			<path id="Rectangle_2388" class="st4" d="M0,96h55v453H0V96z"/>
+			<path id="Rectangle_2389" class="st4" d="M55.3,415.7H82V549H55.3V415.7z"/>
+			<path id="Rectangle_2429" class="st6" d="M0,16h55v80H0V16z"/>
+			<path id="Rectangle_2435" class="st5" d="M55.3,95.7H28.7v26.6h26.6V95.7z"/>
+			<path id="Rectangle_2436" class="st5" d="M29,96H0v26h29V96z"/>
+			<path id="Rectangle_2437" class="st5" d="M55.3,122.3H28.7v53.4h26.6V122.3z"/>
+			<path id="Rectangle_2399" class="st5" d="M0,69h55v27H0V69z"/>
+			<path id="Rectangle_2430" class="st5" d="M0,0h2v16H0V0z"/>
+			<path id="Rectangle_2432" class="st5" d="M0,0h29v42H0V0z"/>
+		</g>
+		<g id="Group_160">
+			<path id="Rectangle_1315_00000156567248661859003720000006675316783119279761_" class="st8" d="M0,474h195v75H0V474z"/>
+			<path id="Rectangle_1316_00000033337118691488736290000017736265798861865637_" class="st8" d="M0,444h150v30H0V444z"/>
+			<path id="Rectangle_1318_00000090278444869430823290000012723360988219545245_" class="st8" d="M195,504h15v45h-15V504z"/>
+			<path id="Rectangle_1319_00000173852136152925236200000008585843059072835469_" class="st9" d="M90,444h60v15H90V444z"/>
+			<path id="Rectangle_1320_00000171699398291036965390000008182910666879448733_" class="st9" d="M150,474h45v15h-45V474z"/>
+			<path id="Rectangle_1321_00000158002111658764021600000001911584032248608416_" class="st9" d="M195,549h15v-45h-15V549z"/>
+			<path id="Rectangle_1322_00000036226825137009843600000007184090449697468072_" class="st9" d="M180,519h15v-30h-15V519z"/>
+			<path id="Rectangle_1323_00000052073239537944485860000014805359750072029334_" class="st9" d="M135,489h15v-30h-15V489z"/>
+			<path id="Rectangle_1324_00000165934309476342144170000013197759812027940240_" class="st9" d="M105,489h15v-15h-15V489z"/>
+			<path id="Rectangle_1325_00000022538376473096906460000010344974434052295071_" class="st9" d="M135,519h30v-15h-30V519z"/>
+		</g>
+	</g>
+</g>
+<g id="moon">
+	<g id="Group_23">
+		<path id="Rectangle_181" class="st10" d="M1056,128h200v200h-200V128z"/>
+		<path id="Rectangle_186" class="st11" d="M1066,138h180v180h-180V138z"/>
+		<path id="Rectangle_182" class="st10" d="M1096,108h120v20h-120V108z"/>
+		<path id="Rectangle_183" class="st10" d="M1276,168v120h-20V168H1276z"/>
+		<path id="Rectangle_184" class="st10" d="M1216,348h-120v-20h120V348z"/>
+		<path id="Rectangle_185" class="st10" d="M1036,288V168h20v120H1036z"/>
+	</g>
+	<g id="Group_47">
+		<path id="Rectangle_391" class="st10" d="M1226,298h20v20h-20V298z"/>
+		<path id="Rectangle_392" class="st10" d="M1226,138h20v20h-20V138z"/>
+		<path id="Rectangle_393" class="st10" d="M1066,138h20v20h-20V138z"/>
+		<path id="Rectangle_394" class="st10" d="M1066,298h20v20h-20V298z"/>
+		<path id="Rectangle_395" class="st10" d="M1236,158h10v40h-10V158z"/>
+		<path id="Rectangle_396" class="st10" d="M1236,258h10v40h-10V258z"/>
+		<path id="Rectangle_397" class="st10" d="M1066,258h10v40h-10V258z"/>
+		<path id="Rectangle_398" class="st10" d="M1066,158h10v40h-10V158z"/>
+		<path id="Rectangle_399" class="st10" d="M1126,138v10h-40v-10H1126z"/>
+		<path id="Rectangle_400" class="st10" d="M1126,308v10h-40v-10H1126z"/>
+		<path id="Rectangle_401" class="st10" d="M1226,308v10h-40v-10H1226z"/>
+		<path id="Rectangle_402" class="st10" d="M1226,138v10h-40v-10H1226z"/>
+	</g>
+</g>
+<g id="ghost_crab_GROUP">
+	<g id="bocourt_swimming_crab">
+		<path id="Rectangle_2157" class="st12" d="M420.5,877h25v15h-25V877z"/>
+		<path id="Rectangle_2158" class="st12" d="M425.5,874.5h15v2.5h-15V874.5z"/>
+		<path id="Rectangle_2159" d="M435.5,872h2.5v2.5h-2.5V872z"/>
+		<path id="Rectangle_2160" d="M428,872h2.5v2.5H428V872z"/>
+		<path id="Rectangle_2167" class="st12" d="M418,879.5h2.5v10H418V879.5z"/>
+		<path id="Rectangle_2168" class="st12" d="M445.5,879.5h2.5v10h-2.5V879.5z"/>
+		<path id="Rectangle_2169" class="st13" d="M448,887h2.5v2.5H448V887z"/>
+		<path id="Rectangle_2173" class="st13" d="M418,887h-2.5v2.5h2.5V887z"/>
+		<path id="Rectangle_2177" class="st12" d="M443,892h-20v2.5h20V892z"/>
+		<path id="Rectangle_2178" class="st12" d="M440.5,894.5h-15v2.5h15V894.5z"/>
+		<path id="Rectangle_2170" class="st13" d="M450.5,884.5h2.5v2.5h-2.5V884.5z"/>
+		<path id="Rectangle_2174" class="st13" d="M415.5,884.5H413v2.5h2.5V884.5z"/>
+		<path id="Rectangle_2171" class="st13" d="M453,879.5h2.5v5H453V879.5z"/>
+		<path id="Rectangle_2175" class="st13" d="M413,879.5h-2.5v5h2.5V879.5z"/>
+		<path id="Rectangle_2172" class="st13" d="M455.5,874.5h2.5v5h-2.5V874.5z"/>
+		<path id="Rectangle_2176" class="st13" d="M410.5,874.5H408v5h2.5V874.5z"/>
+		<path id="Rectangle_2161" class="st12" d="M425.5,872h2.5v2.5h-2.5V872z"/>
+		<path id="Rectangle_2164" class="st12" d="M440.5,872H438v2.5h2.5V872z"/>
+		<path id="Rectangle_2162" class="st12" d="M423,867h2.5v5H423V867z"/>
+		<path id="Rectangle_2165" class="st12" d="M443,867h-2.5v5h2.5V867z"/>
+		<path id="Rectangle_2163" class="st12" d="M425.5,864.5h2.5v2.5h-2.5V864.5z"/>
+		<path id="Rectangle_2166" class="st12" d="M440.5,864.5H438v2.5h2.5V864.5z"/>
+		<path id="Rectangle_2180" class="st13" d="M445.5,892h7.5v2.5h-7.5V892z"/>
+		<path id="Rectangle_2185" class="st13" d="M420.5,892H413v2.5h7.5V892z"/>
+		<path id="Rectangle_2181" class="st13" d="M453,889.5h2.5v2.5H453V889.5z"/>
+		<path id="Rectangle_2190" class="st13" d="M453,894.5h5v2.5h-5V894.5z"/>
+		<path id="Rectangle_2193" class="st13" d="M413,894.5h-5v2.5h5V894.5z"/>
+		<path id="Rectangle_2196" class="st13" d="M428,897h-7.5v2.5h7.5V897z"/>
+		<path id="Rectangle_2200" class="st13" d="M438,897h7.5v2.5H438V897z"/>
+		<path id="Rectangle_2197" class="st13" d="M420.5,899.5H413v2.5h7.5V899.5z"/>
+		<path id="Rectangle_2201" class="st13" d="M445.5,899.5h7.5v2.5h-7.5V899.5z"/>
+		<path id="Rectangle_2198" class="st13" d="M413,902h-2.5v2.5h2.5V902z"/>
+		<path id="Rectangle_2202" class="st13" d="M453,902h2.5v2.5H453V902z"/>
+		<path id="Rectangle_2199" class="st13" d="M410.5,904.5H408v2.5h2.5V904.5z"/>
+		<path id="Rectangle_2203" class="st13" d="M455.5,904.5h2.5v2.5h-2.5V904.5z"/>
+		<path id="Rectangle_2191" class="st13" d="M458,897h2.5v2.5H458V897z"/>
+		<path id="Rectangle_2194" class="st13" d="M408,897h-2.5v2.5h2.5V897z"/>
+		<path id="Rectangle_2192" class="st13" d="M460.5,899.5h2.5v2.5h-2.5V899.5z"/>
+		<path id="Rectangle_2195" class="st13" d="M405.5,899.5H403v2.5h2.5V899.5z"/>
+		<path id="Rectangle_2186" class="st13" d="M413,889.5h-2.5v2.5h2.5V889.5z"/>
+		<path id="Rectangle_2182" class="st13" d="M455.5,887h2.5v2.5h-2.5V887z"/>
+		<path id="Rectangle_2187" class="st13" d="M410.5,887H408v2.5h2.5V887z"/>
+		<path id="Rectangle_2183" class="st13" d="M458,884.5h2.5v2.5H458V884.5z"/>
+		<path id="Rectangle_2188" class="st13" d="M408,884.5h-2.5v2.5h2.5V884.5z"/>
+		<path id="Rectangle_2184" class="st13" d="M460.5,882h2.5v2.5h-2.5V882z"/>
+		<path id="Rectangle_2189" class="st13" d="M405.5,882H403v2.5h2.5V882z"/>
+		<path id="Rectangle_2204" class="st12" d="M415.5,874.5h5v5h-5V874.5z"/>
+		<path id="Rectangle_2208" class="st12" d="M450.5,874.5h-5v5h5V874.5z"/>
+		<path id="Rectangle_2205" class="st12" d="M413,869.5h5v5h-5V869.5z"/>
+		<path id="Rectangle_2209" class="st12" d="M453,869.5h-5v5h5V869.5z"/>
+		<path id="Rectangle_2206" class="st12" d="M413,862h2.5v7.5H413V862z"/>
+		<path id="Rectangle_2216" class="st12" d="M415.5,864.5h2.5v5h-2.5V864.5z"/>
+		<path id="Rectangle_2217" class="st12" d="M418,864.5h2.5v5H418V864.5z"/>
+		<path id="Rectangle_2210" class="st12" d="M453,862h-5v7.5h5V862z"/>
+		<path id="Rectangle_2218" class="st12" d="M455.5,864.5H453v7.5h2.5V864.5z"/>
+		<path id="Rectangle_2219" class="st12" d="M413,867h-2.5v5h2.5V867z"/>
+		<path id="Rectangle_2207" class="st12" d="M415.5,859.5h5v5h-5V859.5z"/>
+		<path id="Rectangle_2213" class="st12" d="M418,857h7.5v2.5H418V857z"/>
+		<path id="Rectangle_2214" class="st12" d="M420.5,862h2.5v2.5h-2.5V862z"/>
+		<path id="Rectangle_2212" class="st12" d="M450.5,859.5H443v2.5h7.5V859.5z"/>
+		<path id="Rectangle_2215" class="st12" d="M448,864.5h-2.5v2.5h2.5V864.5z"/>
+	</g>
+	<g id="bocourt_swimming_crab_00000036939606641070878990000016398938694969450888_">
+		<path id="Rectangle_2157_00000102523422506549998390000007043730125056669594_" class="st12" d="M622.5,924h25v15h-25V924z"/>
+		<path id="Rectangle_2158_00000142865973678138458580000000029697989373650615_" class="st12" d="M627.5,921.5h15v2.5h-15V921.5z"
+			/>
+		<path id="Rectangle_2159_00000033356798068887786630000016502619788843270041_" d="M637.5,919h2.5v2.5h-2.5V919z"/>
+		<path id="Rectangle_2160_00000043414981342035541570000004341688986921564820_" d="M630,919h2.5v2.5H630V919z"/>
+		<path id="Rectangle_2167_00000031191966001317726740000008940225941147248292_" class="st12" d="M620,926.5h2.5v10H620V926.5z"/>
+		<path id="Rectangle_2168_00000115501514206813886220000013991991159889040005_" class="st12" d="M647.5,926.5h2.5v10h-2.5V926.5z"
+			/>
+		<path id="Rectangle_2169_00000010288095570085974450000006602171432227338399_" class="st13" d="M650,934h2.5v2.5H650V934z"/>
+		<path id="Rectangle_2173_00000150813843170384391570000010594856819340758410_" class="st13" d="M620,934h-2.5v2.5h2.5V934z"/>
+		<path id="Rectangle_2177_00000070804246202282354750000009008992622072225192_" class="st12" d="M645,939h-20v2.5h20V939z"/>
+		<path id="Rectangle_2178_00000120532868705951225840000017613051151858837674_" class="st12" d="M642.5,941.5h-15v2.5h15V941.5z"
+			/>
+		<path id="Rectangle_2170_00000088821091132317253860000002402578449576864190_" class="st13" d="M652.5,931.5h2.5v2.5h-2.5V931.5z
+			"/>
+		<path id="Rectangle_2174_00000183215703436105414940000002314414846857080479_" class="st13" d="M617.5,931.5H615v2.5h2.5V931.5z"
+			/>
+		<path id="Rectangle_2171_00000181073418687993132930000003837098664479721891_" class="st13" d="M655,926.5h2.5v5H655V926.5z"/>
+		<path id="Rectangle_2175_00000013164230404966800000000006031220282978575779_" class="st13" d="M615,926.5h-2.5v5h2.5V926.5z"/>
+		<path id="Rectangle_2172_00000021115000370698374750000009564961516291542948_" class="st13" d="M657.5,921.5h2.5v5h-2.5V921.5z"
+			/>
+		<path id="Rectangle_2176_00000178178113570953280220000014014929918649358467_" class="st13" d="M612.5,921.5H610v5h2.5V921.5z"/>
+		<path id="Rectangle_2161_00000178911096760272821250000000323443425331069312_" class="st12" d="M627.5,919h2.5v2.5h-2.5V919z"/>
+		<path id="Rectangle_2164_00000165933547192107875860000005915924687610138539_" class="st12" d="M642.5,919H640v2.5h2.5V919z"/>
+		<path id="Rectangle_2162_00000121962421186730888600000004294911688588034199_" class="st12" d="M625,914h2.5v5H625V914z"/>
+		<path id="Rectangle_2165_00000058578808751824579240000015366784049837619878_" class="st12" d="M645,914h-2.5v5h2.5V914z"/>
+		<path id="Rectangle_2163_00000166634701374676501890000002800674094288697775_" class="st12" d="M627.5,911.5h2.5v2.5h-2.5V911.5z
+			"/>
+		<path id="Rectangle_2166_00000120527841370079867910000008093386221529385611_" class="st12" d="M642.5,911.5H640v2.5h2.5V911.5z"
+			/>
+		<path id="Rectangle_2180_00000152252022946569716340000013617922929984470172_" class="st13" d="M647.5,939h7.5v2.5h-7.5V939z"/>
+		<path id="Rectangle_2185_00000049216023472783260150000009842677695945342342_" class="st13" d="M622.5,939H615v2.5h7.5V939z"/>
+		<path id="Rectangle_2181_00000124148327845456032350000008390384309587309448_" class="st13" d="M655,936.5h2.5v2.5H655V936.5z"/>
+		<path id="Rectangle_2190_00000078740482795587251030000001389352741141334160_" class="st13" d="M655,941.5h5v2.5h-5V941.5z"/>
+		<path id="Rectangle_2193_00000106143528385695259510000007389409196845103780_" class="st13" d="M615,941.5h-5v2.5h5V941.5z"/>
+		<path id="Rectangle_2196_00000023244430698151647360000017875299691061278357_" class="st13" d="M630,944h-7.5v2.5h7.5V944z"/>
+		<path id="Rectangle_2200_00000098196013780521411960000010047691421876476553_" class="st13" d="M640,944h7.5v2.5H640V944z"/>
+		<path id="Rectangle_2197_00000149357597388238825770000002390297335986312636_" class="st13" d="M622.5,946.5H615v2.5h7.5V946.5z"
+			/>
+		<path id="Rectangle_2201_00000034057367896936275160000012593851501189181610_" class="st13" d="M647.5,946.5h7.5v2.5h-7.5V946.5z
+			"/>
+		<path id="Rectangle_2198_00000090979045759091867260000012942514948840903813_" class="st13" d="M615,949h-2.5v2.5h2.5V949z"/>
+		<path id="Rectangle_2202_00000028314986448733789940000013312256181991653775_" class="st13" d="M655,949h2.5v2.5H655V949z"/>
+		<path id="Rectangle_2199_00000116948008018474764450000010560837742741700031_" class="st13" d="M612.5,951.5H610v2.5h2.5V951.5z"
+			/>
+		<path id="Rectangle_2203_00000024702848250221340710000010779278417216866746_" class="st13" d="M657.5,951.5h2.5v2.5h-2.5V951.5z
+			"/>
+		<path id="Rectangle_2191_00000028305906625723167210000017186674084648850560_" class="st13" d="M660,944h2.5v2.5H660V944z"/>
+		<path id="Rectangle_2194_00000161619104229690944100000002916794777362241715_" class="st13" d="M610,944h-2.5v2.5h2.5V944z"/>
+		<path id="Rectangle_2192_00000022557128960720415040000000825752411220029610_" class="st13" d="M662.5,946.5h2.5v2.5h-2.5V946.5z
+			"/>
+		<path id="Rectangle_2195_00000092442087849411486300000002020066439671969210_" class="st13" d="M607.5,946.5H605v2.5h2.5V946.5z"
+			/>
+		<path id="Rectangle_2186_00000031187998947523188040000006486198788389763717_" class="st13" d="M615,936.5h-2.5v2.5h2.5V936.5z"
+			/>
+		<path id="Rectangle_2182_00000037680219239825038650000011281543490938911415_" class="st13" d="M657.5,934h2.5v2.5h-2.5V934z"/>
+		<path id="Rectangle_2187_00000171691188207099908990000012012472717060192128_" class="st13" d="M612.5,934H610v2.5h2.5V934z"/>
+		<path id="Rectangle_2183_00000173125211103679594110000015652573521796084157_" class="st13" d="M660,931.5h2.5v2.5H660V931.5z"/>
+		<path id="Rectangle_2188_00000054955972418829361690000011814739451737247927_" class="st13" d="M610,931.5h-2.5v2.5h2.5V931.5z"
+			/>
+		<path id="Rectangle_2184_00000000192717058661800220000007622052495357175426_" class="st13" d="M662.5,929h2.5v2.5h-2.5V929z"/>
+		<path id="Rectangle_2189_00000024720608448670371930000006638077631265189523_" class="st13" d="M607.5,929H605v2.5h2.5V929z"/>
+		<path id="Rectangle_2204_00000178171562860473888960000008464893326724873386_" class="st12" d="M617.5,921.5h5v5h-5V921.5z"/>
+		<path id="Rectangle_2208_00000141434836493602750270000018171293976495031958_" class="st12" d="M652.5,921.5h-5v5h5V921.5z"/>
+		<path id="Rectangle_2205_00000056405546921056077810000012333284908512464015_" class="st12" d="M615,916.5h5v5h-5V916.5z"/>
+		<path id="Rectangle_2209_00000165222115379041731400000014534480003649541000_" class="st12" d="M655,916.5h-5v5h5V916.5z"/>
+		<path id="Rectangle_2206_00000146500549852131267770000005063658592431551396_" class="st12" d="M615,909h2.5v7.5H615V909z"/>
+		<path id="Rectangle_2216_00000074436121798259048110000015789096330199527089_" class="st12" d="M617.5,911.5h2.5v5h-2.5V911.5z"
+			/>
+		<path id="Rectangle_2217_00000157992295091249404960000016044450256443238305_" class="st12" d="M620,911.5h2.5v5H620V911.5z"/>
+		<path id="Rectangle_2210_00000044886603702229490190000014501283061012885679_" class="st12" d="M655,909h-5v7.5h5V909z"/>
+		<path id="Rectangle_2218_00000093150488064886131970000016094047063011065761_" class="st12" d="M657.5,911.5H655v7.5h2.5V911.5z"
+			/>
+		<path id="Rectangle_2219_00000040534732001141535000000009962119456541930370_" class="st12" d="M615,914h-2.5v5h2.5V914z"/>
+		<path id="Rectangle_2207_00000129912374465228586930000015083151295797862830_" class="st12" d="M617.5,906.5h5v5h-5V906.5z"/>
+		<path id="Rectangle_2213_00000007414866014060930250000013697923988670666412_" class="st12" d="M620,904h7.5v2.5H620V904z"/>
+		<path id="Rectangle_2214_00000122714133016208695720000015454103431288257205_" class="st12" d="M622.5,909h2.5v2.5h-2.5V909z"/>
+		<path id="Rectangle_2212_00000080195831127714199850000005421495305574883736_" class="st12" d="M652.5,906.5H645v2.5h7.5V906.5z"
+			/>
+		<path id="Rectangle_2215_00000063600579444775604790000012631005381763538615_" class="st12" d="M650,911.5h-2.5v2.5h2.5V911.5z"
+			/>
+	</g>
+</g>
+<path id="coconut" class="st14 itemStyle" d="M473,174h50v50h-50V174z"/>
+<g id="banded_seasnake" class="itemStyle">
+	<g id="Group_256">
+		<path id="Rectangle_2331" class="st11" d="M1714.7,665.3h-8v-8h8V665.3z"/>
+		<path id="Rectangle_2348" class="st11" d="M1706.7,662.7h-8v-8h8V662.7z"/>
+		<path id="Rectangle_2349" class="st11" d="M1698.7,660h-8v-8h8V660z"/>
+		<path id="Rectangle_2350" class="st11" d="M1690.7,662.7h-8v-8h8V662.7z"/>
+		<path id="Rectangle_2351" class="st11" d="M1682.7,665.3h-13.4v-8h13.4V665.3z"/>
+		<path id="Rectangle_2372" class="st11" d="M1666.7,668h-13.4v-8h13.4V668z"/>
+		<path id="Rectangle_2373" class="st11" d="M1653.3,670.7H1640v-8h13.3V670.7z"/>
+		<path id="Rectangle_2374" class="st11" d="M1640,668h-13.3v-8h13.3V668z"/>
+		<path id="Rectangle_2375" class="st11" d="M1626.7,670.7h-13.4v-8h13.4V670.7z"/>
+		<path id="Rectangle_2376" class="st15" d="M1613.3,673.3H1600v-8h13.3V673.3z"/>
+		<path id="Rectangle_2352" class="st15" d="M1672,668h-5.3v-8h5.3V668z"/>
+		<path id="Rectangle_2378" class="st15" d="M1658.7,668h-5.4v-8h5.4V668z"/>
+		<path id="Rectangle_2379" class="st15" d="M1645.3,670.7h-5.3v-8h5.3V670.7z"/>
+		<path id="Rectangle_2380" class="st15" d="M1632,668h-5.3v-8h5.3V668z"/>
+		<path id="Rectangle_2353" class="st15" d="M1669.3,670.7h-5.3V668h5.3V670.7z"/>
+		<path id="Rectangle_2377" class="st15" d="M1608,676h-5.3v-2.7h5.3V676z"/>
+		<path id="Rectangle_2332" class="st11" d="M1720,668h-8v-8h8V668z"/>
+		<path id="Rectangle_2333" class="st11" d="M1717.3,676h-8v-8h8V676z"/>
+		<path id="Rectangle_2334" class="st11" d="M1714.7,681.3h-8v-8h8V681.3z"/>
+		<path id="Rectangle_2335" class="st11" d="M1709.3,686.7h-8v-8h8V686.7z"/>
+		<path id="Rectangle_2336" class="st11" d="M1701.3,689.3h-8v-8h8V689.3z"/>
+		<path id="Rectangle_2337" class="st11" d="M1693.3,692h-8v-8h8V692z"/>
+		<path id="Rectangle_2338" class="st11" d="M1685.3,694.7h-8v-8h8V694.7z"/>
+		<path id="Rectangle_2339" class="st11" d="M1680,700h-8v-8h8V700z"/>
+		<path id="Rectangle_2340" class="st11" d="M1677.3,705.3h-8v-8h8V705.3z"/>
+		<path id="Rectangle_2341" class="st11" d="M1680,713.3h-8v-8h8V713.3z"/>
+		<path id="Rectangle_2342" class="st11" d="M1688,716h-8v-8h8V716z"/>
+		<path id="Rectangle_2343" class="st11" d="M1696,716h-8v-8h8V716z"/>
+		<path id="Rectangle_2344" class="st11" d="M1704,713.3h-8v-8h8V713.3z"/>
+		<path id="Rectangle_2345" class="st11" d="M1712,710.7h-8v-8h8V710.7z"/>
+		<path id="Rectangle_2346" class="st11" d="M1717.3,705.3h-5.3V700h5.3V705.3z"/>
+		<path id="Rectangle_2347" class="st11" d="M1720,700h-2.7v-2.7h2.7V700z"/>
+		<path id="Rectangle_2354" class="st15" d="M1688,662.7h-5.3v-8h5.3V662.7z"/>
+		<path id="Rectangle_2355" class="st15" d="M1698.7,660h-5.4v-8h5.4V660z"/>
+		<path id="Rectangle_2356" class="st15" d="M1712,665.3h-5.3v-8h5.3V665.3z"/>
+		<path id="Rectangle_2357" class="st15" d="M1717.3,676h-8v-5.3h8V676z"/>
+		<path id="Rectangle_2359" class="st15" d="M1709.3,686.7h-8v-5.4h8V686.7z"/>
+		<path id="Rectangle_2361" class="st15" d="M1693.3,692h-8v-5.3h8V692z"/>
+		<path id="Rectangle_2363" class="st15" d="M1680,700h-8v-5.3h8V700z"/>
+		<path id="Rectangle_2365" class="st15" d="M1680,710.7h-8v-5.4h8V710.7z"/>
+		<path id="Rectangle_2368" class="st15" d="M1690.7,716h-5.4v-8h5.4V716z"/>
+		<path id="Rectangle_2369" class="st15" d="M1701.3,713.3h-5.3v-8h5.3V713.3z"/>
+		<path id="Rectangle_2370" class="st15" d="M1712,710.7h-5.3v-8h5.3V710.7z"/>
+		<path id="Rectangle_2371" class="st15" d="M1720,700h-2.7v-2.7h2.7V700z"/>
+		<path id="Rectangle_2358" class="st15" d="M1709.3,676h-2.6v-2.7h2.6V676z"/>
+		<path id="Rectangle_2360" class="st15" d="M1704,681.3h-2.7v-2.6h2.7V681.3z"/>
+		<path id="Rectangle_2362" class="st15" d="M1688,686.7h-2.7V684h2.7V686.7z"/>
+		<path id="Rectangle_2364" class="st15" d="M1674.7,694.7h-2.7V692h2.7V694.7z"/>
+		<path id="Rectangle_2366" class="st15" d="M1685.3,694.7h-2.6v-5.4h2.6V694.7z"/>
+		<path id="Rectangle_2367" class="st15" d="M1701.3,689.3h-2.6V684h2.6V689.3z"/>
+	</g>
+	<path id="Rectangle_2381" class="st16" d="M1608,670.7h-8V668h8V670.7z"/>
+	<path id="Rectangle_2382" class="st16" d="M1613.3,668h-8v-2.7h8V668z"/>
+</g>
+<g id="dates" class="itemStyle">
+	<path id="Rectangle_2441" class="st17" d="M55.3,95.7H82V149H55.3V95.7z"/>
+	<path id="Rectangle_2442" class="st18" d="M55.3,149H82v80H55.3V149z"/>
+	<path id="Rectangle_2446" class="st18" d="M28.7,122.3h26.6v80H28.7L28.7,122.3z"/>
+	<path id="Rectangle_2443" class="st18" d="M82,149h26.7v106.7H82V149z"/>
+	<path id="Rectangle_2444" class="st18" d="M108.7,175.7h26.6v80h-26.6L108.7,175.7z"/>
+</g>
+<g id="glowing_algae" class="itemStyle">
+	<path id="Rectangle_2318" class="st19" d="M615,614h150v100H615V614z"/>
+	<path id="Rectangle_2321" class="st19" d="M565,614h50v75h-50V614z"/>
+	<path id="Rectangle_2319" class="st19" d="M765,626.5h100v50H765V626.5z"/>
+	<path id="Rectangle_2320" class="st19" d="M565,589h100v25H565V589z"/>
+	<path id="Rectangle_2322" class="st20" d="M765,626.5h100v50H765V626.5z"/>
+	<path id="Rectangle_2329" class="st20" d="M765,676.5h50V689h-50V676.5z"/>
+	<path id="Rectangle_2323" class="st21" d="M702.5,614H765v100h-62.5V614z"/>
+	<path id="Rectangle_2324" class="st21" d="M665,614h37.5v37.5H665V614z"/>
+	<path id="Rectangle_2325" class="st21" d="M690,651.5h12.5V689H690V651.5z"/>
+	<path id="Rectangle_2326" class="st21" d="M652.5,589H665v37.5h-12.5V589z"/>
+	<path id="Rectangle_2327" class="st20" d="M752.5,614H765v50h-12.5V614z"/>
+	<path id="Rectangle_2328" class="st20" d="M727.5,614h25v25h-25V614z"/>
+</g>
+<g id="turtle_eggs" class="itemStyle">
+	<path id="Rectangle_2383" class="st22" d="M15,549h95v55H15V549z"/>
+	<path id="Rectangle_2384" class="st22" d="M0,564h20v85H0V564z"/>
+	<path id="Rectangle_2385" class="st22" d="M15,604h80v40H15V604z"/>
+	<path id="Rectangle_2386" class="st2" d="M20,559h65v45H20V559z"/>
+	<path id="Rectangle_2387" class="st2" d="M10,589h65v45H10V589z"/>
+	<g id="Group_252">
+		<path id="Rectangle_2294" class="st11" d="M20,574h10v10H20V574z"/>
+		<path id="Rectangle_2317" class="st11" d="M35,564h10v10H35V564z"/>
+		<path id="Rectangle_2300" class="st11" d="M5,579h10v10H5V579z"/>
+		<path id="Rectangle_2301" class="st11" d="M5,614h10v10H5V614z"/>
+		<path id="Rectangle_2302" class="st11" d="M20,599h10v10H20V599z"/>
+		<path id="Rectangle_2303" class="st11" d="M35,584h10v10H35V584z"/>
+		<path id="Rectangle_2304" class="st11" d="M50,599h10v10H50V599z"/>
+		<path id="Rectangle_2305" class="st11" d="M65,579h10v10H65V579z"/>
+		<path id="Rectangle_2295" class="st11" d="M20,554h10v10H20V554z"/>
+		<path id="Rectangle_2296" class="st11" d="M65,554h10v10H65V554z"/>
+		<path id="Rectangle_2297" class="st11" d="M55,539h10v10H55V539z"/>
+		<path id="Rectangle_2307" class="st11" d="M80,539h10v10H80V539z"/>
+		<path id="Rectangle_2308" class="st11" d="M95,554h10v10H95V554z"/>
+		<path id="Rectangle_2309" class="st11" d="M90,589h10v10H90V589z"/>
+		<path id="Rectangle_2310" class="st11" d="M70,599h10v10H70V599z"/>
+		<path id="Rectangle_2311" class="st11" d="M35,609h10v10H35V609z"/>
+		<path id="Rectangle_2312" class="st11" d="M5,634h10v10H5V634z"/>
+		<path id="Rectangle_2313" class="st11" d="M20,624h10v10H20V624z"/>
+		<path id="Rectangle_2314" class="st11" d="M50,624h10v10H50V624z"/>
+		<path id="Rectangle_2315" class="st11" d="M50,584h10v10H50V584z"/>
+		<path id="Rectangle_2316" class="st11" d="M70,619h10v10H70V619z"/>
+		<path id="Rectangle_2306" class="st11" d="M80,569h10v10H80V569z"/>
+		<path id="Rectangle_2298" class="st11" d="M50,564h10v10H50V564z"/>
+		<path id="Rectangle_2299" class="st11" d="M35,544h10v10H35V544z"/>
+	</g>
+</g>
+<g id="shell" class="itemStyle">
+	<g id="Group_62">
+		<path id="Rectangle_422" class="st23" d="M295,573h33v33h-33V573z"/>
+		<path id="Rectangle_423" class="st23" d="M301,570h21v3h-21V570z"/>
+		<path id="Rectangle_424" class="st23" d="M301,606h21v3h-21V606z"/>
+		<path id="Rectangle_425" class="st23" d="M328,600v-21h3v21H328z"/>
+		<path id="Rectangle_426" class="st23" d="M292,600v-21h3v21H292z"/>
+		<path id="Rectangle_427" class="st24" d="M301,576h21v3h-21V576z"/>
+		<path id="Rectangle_428" class="st24" d="M301,579v21h-3v-21H301z"/>
+		<path id="Rectangle_429" class="st24" d="M322,603h-21v-3h21V603z"/>
+		<path id="Rectangle_430" class="st24" d="M322,600v-15h3v15H322z"/>
+		<path id="Rectangle_431" class="st24" d="M307,582h15v3h-15V582z"/>
+		<path id="Rectangle_432" class="st24" d="M307,585v9h-3v-9H307z"/>
+		<path id="Rectangle_433" class="st24" d="M316,597h-9v-3h9V597z"/>
+		<path id="Rectangle_434" class="st24" d="M316,594v-3h3v3H316z"/>
+		<path id="Rectangle_435" class="st24" d="M310,591v-3h6v3H310z"/>
+	</g>
+</g>
+<g id="yellow_bellied_seasnake" class="itemStyle">
+	<g id="Group_256_00000037684129647346592580000010191454440015479685_">
+		<path id="Rectangle_2331_00000143581716880336767500000001656005831085841288_" class="st15" d="M1286,608h-15v15h15V608z"/>
+		<path id="Rectangle_2348_00000040559125271437739860000011794760438945238162_" class="st15" d="M1271,613h-15v15h15V613z"/>
+		<path id="Rectangle_2349_00000106841278063574456470000012115053641017075083_" class="st15" d="M1256,618h-15v15h15V618z"/>
+		<path id="Rectangle_2350_00000063597040967659568120000005484786965237730698_" class="st15" d="M1241,613h-15v15h15V613z"/>
+		<path id="Rectangle_2351_00000106128558848150302990000012014227217751298710_" class="st15" d="M1226,608h-25v15h25V608z"/>
+		<path id="Rectangle_2372_00000061461676409018433190000010533715799973772690_" class="st15" d="M1201,603h-30v15h30V603z"/>
+		<path id="Rectangle_2373_00000046313672423766171430000011308856887480390295_" class="st15" d="M1171,598h-25v15h25V598z"/>
+		<path id="Rectangle_2374_00000125590763337597676180000004371255146025929379_" class="st15" d="M1146,603h-25v15h25V603z"/>
+		<path id="Rectangle_2375_00000140701442192915504890000000985109231809622656_" class="st15" d="M1121,598h-25v15h25V598z"/>
+		<path id="Rectangle_2376_00000158004041619844680110000004192836085562352309_" class="st15" d="M1096,593h-30v15h30V593z"/>
+		<path id="Rectangle_2377_00000122689103534184299650000002918017249095717257_" class="st15" d="M1086,588h-15v5h15V588z"/>
+		<path id="Rectangle_2383_00000149383066908554129460000006516937442295149751_" d="M1076,593h-5v5h5V593z"/>
+		<path id="Rectangle_2332_00000106125080349953623050000013540956217886944433_" class="st15" d="M1296,603h-15v15h15V603z"/>
+		<path id="Rectangle_2333_00000111181838825643018540000005054012915214322830_" class="st15" d="M1291,588h-15v15h15V588z"/>
+		<path id="Rectangle_2381_00000031915343132648650680000016998289161435323036_" class="st15" d="M1281,583h-10v10h10V583z"/>
+		<path id="Rectangle_2382_00000048465220132604403080000015198851044318278023_" class="st15" d="M1271,578h-5v5h5V578z"/>
+	</g>
+	<path id="Rectangle_2382_00000137133077947017010200000017153368706224388763_" class="st16" d="M1101,603h-35v5h35V603z"/>
+	<path id="Rectangle_2383_00000042694280060785150350000016584191965695276166_" class="st16" d="M1126,608h-30v5h30V608z"/>
+	<path id="Rectangle_2384_00000181047737628667530840000007273994268905646988_" class="st16" d="M1146,613h-25v5h25V613z"/>
+	<path id="Rectangle_2385_00000049920201573910806530000003087862407645642912_" class="st16" d="M1176,608h-35v5h35V608z"/>
+	<path id="Rectangle_2386_00000013152818977388578630000016042907714764328065_" class="st16" d="M1206,613h-35v5h35V613z"/>
+	<path id="Rectangle_2387_00000018951127212751991290000016232526152544172683_" class="st16" d="M1231,618h-30v5h30V618z"/>
+	<path id="Rectangle_2388_00000158719079945258096140000003075198409342313911_" class="st16" d="M1246,623h-20v5h20V623z"/>
+	<path id="Rectangle_2389_00000088831158265919431630000011504252926759186580_" class="st16" d="M1256,628h-15v5h15V628z"/>
+	<path id="Rectangle_2390" class="st16" d="M1271,623h-15v5h15V623z"/>
+	<path id="Rectangle_2391" class="st16" d="M1286,618h-15v5h15V618z"/>
+	<path id="Rectangle_2392" class="st16" d="M1296,613h-10v5h10V613z"/>
+	<path id="Rectangle_2393" class="st16" d="M1296,603h-5v10h5V603z"/>
+	<path id="Rectangle_2394" class="st16" d="M1291,588h-5v20h5V588z"/>
+	<path id="Rectangle_2395" class="st16" d="M1281,583h-5v5h5V583z"/>
+	<path id="Rectangle_2396" class="st16" d="M1286,588h-5v5h5V588z"/>
+</g>
+<g id="ghost_crab" class="itemStyle">
+	<path id="Rectangle_2157_00000083798974117130859860000008428600197664840327_" class="st12" d="M513,839h50v30h-50V839z"/>
+	<path id="Rectangle_2158_00000151509269737926384620000008056438990453855114_" class="st12" d="M523,834h30v5h-30V834z"/>
+	<path id="Rectangle_2159_00000173869332262017595120000006637687428478892696_" d="M543,829h5v5h-5V829z"/>
+	<path id="Rectangle_2160_00000167397303512283166100000003941669974266273446_" d="M528,829h5v5h-5V829z"/>
+	<path id="Rectangle_2167_00000137838850175808529970000007243627749327947958_" class="st12" d="M508,844h5v20h-5V844z"/>
+	<path id="Rectangle_2168_00000143604285539350509550000007126952665138855609_" class="st12" d="M563,844h5v20h-5V844z"/>
+	<path id="Rectangle_2169_00000178895633901696553670000007952383815964178599_" class="st13" d="M568,859h5v5h-5V859z"/>
+	<path id="Rectangle_2173_00000013175984384667251830000000824510637922231429_" class="st13" d="M508,859h-5v5h5V859z"/>
+	<path id="Rectangle_2177_00000031208315452322414380000000389062288786234296_" class="st12" d="M558,869h-40v5h40V869z"/>
+	<path id="Rectangle_2178_00000072270346297846787310000000091674719968314024_" class="st12" d="M553,874h-30v5h30V874z"/>
+	<path id="Rectangle_2170_00000145057710404893068350000008937143436577847698_" class="st13" d="M573,854h5v5h-5V854z"/>
+	<path id="Rectangle_2174_00000116937278344193855580000005615209107342831798_" class="st13" d="M503,854h-5v5h5V854z"/>
+	<path id="Rectangle_2171_00000024690225049628028260000012709569135692213435_" class="st13" d="M578,844h5v10h-5V844z"/>
+	<path id="Rectangle_2175_00000005971647890413825320000012124077310559774084_" class="st13" d="M498,844h-5v10h5V844z"/>
+	<path id="Rectangle_2172_00000170260338984952434610000015852522161565937571_" class="st13" d="M583,834h5v10h-5V834z"/>
+	<path id="Rectangle_2176_00000145745478164268886250000013418159380142988176_" class="st13" d="M493,834h-5v10h5V834z"/>
+	<path id="Rectangle_2161_00000076603241343488427130000005335310830712459160_" class="st12" d="M523,829h5v5h-5V829z"/>
+	<path id="Rectangle_2164_00000151530015058090112930000011223602754414282420_" class="st12" d="M553,829h-5v5h5V829z"/>
+	<path id="Rectangle_2162_00000159470493664498380610000009969238101845613717_" class="st12" d="M518,819h5v10h-5V819z"/>
+	<path id="Rectangle_2165_00000181044710696439286460000006423032257439827352_" class="st12" d="M558,819h-5v10h5V819z"/>
+	<path id="Rectangle_2163_00000049913910323624810280000011800529776381552802_" class="st12" d="M523,814h5v5h-5V814z"/>
+	<path id="Rectangle_2166_00000029764800103062517270000004783424435355527343_" class="st12" d="M553,814h-5v5h5V814z"/>
+	<path id="Rectangle_2180_00000094585583136085011900000016724868618058994089_" class="st13" d="M563,869h15v5h-15V869z"/>
+	<path id="Rectangle_2185_00000065765989041291787780000007330762259266646443_" class="st13" d="M513,869h-15v5h15V869z"/>
+	<path id="Rectangle_2181_00000025406558837034613150000007430879768505827241_" class="st13" d="M578,864h5v5h-5V864z"/>
+	<path id="Rectangle_2190_00000080176352534729080060000007898705497697109423_" class="st13" d="M578,874h10v5h-10V874z"/>
+	<path id="Rectangle_2193_00000067945378837982124690000013384114739107603875_" class="st13" d="M498,874h-10v5h10V874z"/>
+	<path id="Rectangle_2196_00000026144228232200236890000015730581709107910810_" class="st13" d="M528,879h-15v5h15V879z"/>
+	<path id="Rectangle_2200_00000173857549061195612080000007511898599908619423_" class="st13" d="M548,879h15v5h-15V879z"/>
+	<path id="Rectangle_2197_00000151528139202543597750000000185281862101867454_" class="st13" d="M513,884h-15v5h15V884z"/>
+	<path id="Rectangle_2201_00000171693020818543495750000014469170071583085492_" class="st13" d="M563,884h15v5h-15V884z"/>
+	<path id="Rectangle_2198_00000124865228004013289670000004259230745213951897_" class="st13" d="M498,889h-5v5h5V889z"/>
+	<path id="Rectangle_2202_00000175281659391951031170000003076386347172148629_" class="st13" d="M578,889h5v5h-5V889z"/>
+	<path id="Rectangle_2199_00000159444087928346099830000014179910004505245352_" class="st13" d="M493,894h-5v5h5V894z"/>
+	<path id="Rectangle_2203_00000005967716766599554730000002577024707192391830_" class="st13" d="M583,894h5v5h-5V894z"/>
+	<path id="Rectangle_2191_00000057141506076496309490000004833327858709224089_" class="st13" d="M588,879h5v5h-5V879z"/>
+	<path id="Rectangle_2194_00000096044979374203213340000009064832548630619788_" class="st13" d="M488,879h-5v5h5V879z"/>
+	<path id="Rectangle_2192_00000061472651060458459900000010727278671926998407_" class="st13" d="M593,884h5v5h-5V884z"/>
+	<path id="Rectangle_2195_00000089559401419284490700000002455236923008283548_" class="st13" d="M483,884h-5v5h5V884z"/>
+	<path id="Rectangle_2186_00000062191753193088666910000016031632120630733236_" class="st13" d="M498,864h-5v5h5V864z"/>
+	<path id="Rectangle_2182_00000168118076833520882080000004992075424195127950_" class="st13" d="M583,859h5v5h-5V859z"/>
+	<path id="Rectangle_2187_00000027580117244935195660000015578244074265945753_" class="st13" d="M493,859h-5v5h5V859z"/>
+	<path id="Rectangle_2183_00000036210134172214239310000002008961092670400182_" class="st13" d="M588,854h5v5h-5V854z"/>
+	<path id="Rectangle_2188_00000060028296233144288950000015855159872105059483_" class="st13" d="M488,854h-5v5h5V854z"/>
+	<path id="Rectangle_2184_00000144307852096581684080000006277563381580849026_" class="st13" d="M593,849h5v5h-5V849z"/>
+	<path id="Rectangle_2189_00000009589964674555141100000009144794538020720029_" class="st13" d="M483,849h-5v5h5V849z"/>
+	<path id="Rectangle_2204_00000096762834260410316490000001193327557822572173_" class="st12" d="M503,834h10v10h-10V834z"/>
+	<path id="Rectangle_2208_00000148662636771259024860000001239454368711999378_" class="st12" d="M573,834h-10v10h10V834z"/>
+	<path id="Rectangle_2205_00000095333884151663453920000014845262969230965179_" class="st12" d="M498,824h10v10h-10V824z"/>
+	<path id="Rectangle_2209_00000144310717003154754470000003816372770374368899_" class="st12" d="M578,824h-10v10h10V824z"/>
+	<path id="Rectangle_2206_00000003812840798968868500000001997733499797979298_" class="st12" d="M498,809h5v15h-5V809z"/>
+	<path id="Rectangle_2216_00000141422759572826641370000016319461847706553222_" class="st12" d="M503,814h5v10h-5V814z"/>
+	<path id="Rectangle_2217_00000069356900294575893160000000954125104986149802_" class="st12" d="M508,814h5v10h-5V814z"/>
+	<path id="Rectangle_2210_00000091001189088456060980000003879026916468264376_" class="st12" d="M578,809h-10v15h10V809z"/>
+	<path id="Rectangle_2218_00000116208062818355717690000000093037667194895005_" class="st12" d="M583,814h-5v15h5V814z"/>
+	<path id="Rectangle_2219_00000056427073985255496360000006538861930119438497_" class="st12" d="M498,819h-5v10h5V819z"/>
+	<path id="Rectangle_2207_00000060029564194799960160000010243549097686704300_" class="st12" d="M503,804h10v10h-10V804z"/>
+	<path id="Rectangle_2213_00000145752889157188579150000002135560179184543628_" class="st12" d="M508,799h15v5h-15V799z"/>
+	<path id="Rectangle_2214_00000023255146039766978410000013218612003081278348_" class="st12" d="M513,809h5v5h-5V809z"/>
+	<path id="Rectangle_2212_00000163793588859288524030000010495278716428169628_" class="st12" d="M573,804h-15v5h15V804z"/>
+	<path id="Rectangle_2215_00000146469204606441618050000015376156944794980238_" class="st12" d="M568,814h-5v5h5V814z"/>
+</g>
+<g id="hermit_crab" class="itemStyle">
+	<path id="Rectangle_2449" class="st25" d="M115,809h25v35h-25V809z"/>
+	<path id="Rectangle_2451" class="st25" d="M115,844h20v5h-20V844z"/>
+	<path id="Rectangle_2452" class="st25" d="M105,814h10v30h-10V814z"/>
+	<path id="Rectangle_2453" class="st26" d="M100,824h5v15h-5V824z"/>
+	<path id="Rectangle_2502" class="st26" d="M105,824h5v5h-5V824z"/>
+	<path id="Rectangle_2454" class="st25" d="M130,804h-10v5h10V804z"/>
+	<path id="Rectangle_2455" class="st25" d="M140,829h5v10h-5V829z"/>
+	<path id="Rectangle_2456" class="st27" d="M135,844h10v5h-10V844z"/>
+	<path id="Rectangle_2499" class="st27" d="M120,834h10v5h-10V834z"/>
+	<path id="Rectangle_2501" class="st26" d="M115,829h10v5h-10V829z"/>
+	<path id="Rectangle_2457" class="st26" d="M140,849h10v5h-10V849z"/>
+	<path id="Rectangle_2500" class="st26" d="M125,839h15v5h-15V839z"/>
+	<path id="Rectangle_2458" class="st26" d="M140,814h5v15h-5V814z"/>
+	<path id="Rectangle_2459" class="st26" d="M145,819h5v10h-5V819z"/>
+	<path id="Rectangle_2460" class="st26" d="M150,824h5v10h-5V824z"/>
+	<path id="Rectangle_2461" class="st26" d="M155,824h5v10h-5V824z"/>
+	<path id="Rectangle_2462" class="st27" d="M160,829h5v10h-5V829z"/>
+	<path id="Rectangle_2463" class="st26" d="M165,829h5v10h-5V829z"/>
+	<path id="Rectangle_2464" class="st26" d="M170,829h5v10h-5V829z"/>
+	<path id="Rectangle_2465" class="st26" d="M175,829h5v15h-5V829z"/>
+	<path id="Rectangle_2466" class="st26" d="M180,834h5v10h-5V834z"/>
+	<path id="Rectangle_2467" class="st27" d="M185,839h5v10h-5V839z"/>
+	<path id="Rectangle_2468" class="st26" d="M190,839h5v10h-5V839z"/>
+	<path id="Rectangle_2469" class="st26" d="M195,844h5v10h-5V844z"/>
+	<path id="Rectangle_2470" class="st26" d="M100,814h5v5h-5V814z"/>
+	<path id="Rectangle_2471" class="st26" d="M95,814h5v5h-5V814z"/>
+	<path id="Rectangle_2473" class="st26" d="M85,819h10v5H85V819z"/>
+	<path id="Rectangle_2476" class="st26" d="M100,829h-5v5h5V829z"/>
+	<path id="Rectangle_2477" class="st26" d="M95,829h-5v5h5V829z"/>
+	<path id="Rectangle_2478" class="st26" d="M90,834h-5v5h5V834z"/>
+	<path id="Rectangle_2479" class="st26" d="M100,839h-5v5h5V839z"/>
+	<path id="Rectangle_2480" class="st26" d="M95,844h-5v5h5V844z"/>
+	<path id="Rectangle_2474" class="st26" d="M80,814h5v5h-5V814z"/>
+	<path id="Rectangle_2475" class="st26" d="M80,809h5v5h-5V809z"/>
+	<path id="Rectangle_2481" d="M110,799h5v15h-5V799z"/>
+	<path id="Rectangle_2482" d="M105,799h5v10h-5V799z"/>
+	<path id="Rectangle_2483" class="st28" d="M135,789h40v20h-40V789z"/>
+	<path id="Rectangle_2484" class="st28" d="M140,809h50v5h-50V809z"/>
+	<path id="Rectangle_2485" class="st28" d="M145,814h50v5h-50V814z"/>
+	<path id="Rectangle_2486" class="st28" d="M150,819h45v5h-45V819z"/>
+	<path id="Rectangle_2487" class="st28" d="M155,824h40v5h-40V824z"/>
+	<path id="Rectangle_2488" class="st28" d="M180,829h10v5h-10V829z"/>
+	<path id="Rectangle_2489" class="st28" d="M175,804h15v5h-15V804z"/>
+	<path id="Rectangle_2490" class="st28" d="M175,799h10v5h-10V799z"/>
+	<path id="Rectangle_2491" class="st28" d="M175,794h10v5h-10V794z"/>
+	<path id="Rectangle_2492" class="st28" d="M145,784h20v5h-20V784z"/>
+	<path id="Rectangle_2493" class="st28" d="M125,794h10v10h-10V794z"/>
+	<path id="Rectangle_2494" class="st28" d="M130,804h5v5h-5V804z"/>
+	<path id="Rectangle_2495" class="st28" d="M145,829h5v5h-5V829z"/>
+	<path id="Rectangle_2496" class="st28" d="M160,839h15v10h-15V839z"/>
+	<path id="Rectangle_2497" class="st28" d="M145,834h15v5h-15V834z"/>
+	<path id="Rectangle_2498" class="st28" d="M150,839h10v5h-10V839z"/>
+	<path id="Rectangle_2503" class="st29" d="M135,799h10v5h-10V799z"/>
+	<path id="Rectangle_2504" class="st29" d="M140,794h10v5h-10V794z"/>
+	<path id="Rectangle_2505" class="st29" d="M150,789h10v5h-10V789z"/>
+	<path id="Rectangle_2506" class="st29" d="M160,794h10v5h-10V794z"/>
+	<path id="Rectangle_2507" class="st29" d="M170,799h10v5h-10V799z"/>
+	<path id="Rectangle_2508" class="st29" d="M180,804h5v10h-5V804z"/>
+	<path id="Rectangle_2509" class="st29" d="M185,814h5v10h-5V814z"/>
+	<path id="Rectangle_2510" class="st29" d="M160,804v5h-10v-5H160z"/>
+	<path id="Rectangle_2511" class="st29" d="M170,809v5h-10v-5H170z"/>
+	<path id="Rectangle_2512" class="st29" d="M175,814v5h-5v-5H175z"/>
+	<path id="Rectangle_2513" class="st29" d="M180,819v5h-5v-5H180z"/>
+</g>
+<g id="sea_urchin" class="itemStyle">
+	<path id="Rectangle_2515" d="M1141,929h40v20h-40V929z"/>
+	<path id="Rectangle_2516" d="M1151,924h20v5h-20V924z"/>
+	<path id="Rectangle_2517" d="M1181,939h5v10h-5V939z"/>
+	<path id="Rectangle_2518" d="M1136,939h5v10h-5V939z"/>
+	<path id="Rectangle_2519" class="st30" d="M1141,924h5v10h-5V924z"/>
+	<path id="Rectangle_2523" class="st30" d="M1181,924h-5v10h5V924z"/>
+	<path id="Rectangle_2537" class="st30" d="M1191,934h-5v10h5V934z"/>
+	<path id="Rectangle_2544" class="st30" d="M1131,939h5v10h-5V939z"/>
+	<path id="Rectangle_2538" class="st30" d="M1196,924h-5v10h5V924z"/>
+	<path id="Rectangle_2545" class="st30" d="M1126,929h5v10h-5V929z"/>
+	<path id="Rectangle_2539" class="st30" d="M1201,914h-5v10h5V914z"/>
+	<path id="Rectangle_2546" class="st30" d="M1121,919h5v10h-5V919z"/>
+	<path id="Rectangle_2540" class="st30" d="M1206,904h-5v10h5V904z"/>
+	<path id="Rectangle_2547" class="st30" d="M1116,909h5v10h-5V909z"/>
+	<path id="Rectangle_2541" class="st30" d="M1211,894h-5v10h5V894z"/>
+	<path id="Rectangle_2548" class="st30" d="M1111,899h5v10h-5V899z"/>
+	<path id="Rectangle_2542" class="st30" d="M1216,884h-5v10h5V884z"/>
+	<path id="Rectangle_2549" class="st30" d="M1106,889h5v10h-5V889z"/>
+	<path id="Rectangle_2543" class="st30" d="M1221,874h-5v10h5V874z"/>
+	<path id="Rectangle_2550" class="st30" d="M1101,879h5v10h-5V879z"/>
+	<path id="Rectangle_2527" class="st30" d="M1166,914h-5v10h5V914z"/>
+	<path id="Rectangle_2535" class="st30" d="M1161,864h-5v50h5V864z"/>
+	<path id="Rectangle_2536" class="st30" d="M1156,834h-5v30h5V834z"/>
+	<path id="Rectangle_2531" class="st30" d="M1151,914h5v10h-5V914z"/>
+	<path id="Rectangle_2520" class="st30" d="M1136,899h5v25h-5V899z"/>
+	<path id="Rectangle_2524" class="st30" d="M1186,899h-5v25h5V899z"/>
+	<path id="Rectangle_2528" class="st30" d="M1171,889h-5v25h5V889z"/>
+	<path id="Rectangle_2532" class="st30" d="M1146,889h5v25h-5V889z"/>
+	<path id="Rectangle_2521" class="st30" d="M1131,874h5v25h-5V874z"/>
+	<path id="Rectangle_2525" class="st30" d="M1191,874h-5v25h5V874z"/>
+	<path id="Rectangle_2529" class="st30" d="M1176,864h-5v25h5V864z"/>
+	<path id="Rectangle_2533" class="st30" d="M1141,859h5v30h-5V859z"/>
+	<path id="Rectangle_2522" class="st30" d="M1126,844h5v30h-5V844z"/>
+	<path id="Rectangle_2526" class="st30" d="M1196,844h-5v30h5V844z"/>
+	<path id="Rectangle_2530" class="st30" d="M1181,834h-5v30h5V834z"/>
+	<path id="Rectangle_2534" class="st30" d="M1136,829h5v30h-5V829z"/>
+</g>
+</svg>

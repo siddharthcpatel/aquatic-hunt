@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7aa187;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="lilypad">
+      <path id="Rectangle_881" data-name="Rectangle 881" class="cls-1" d="m10,40h90v20H10v-20Z"/>
+      <path id="Rectangle_891" data-name="Rectangle 891" class="cls-1" d="m30,60h50v10H30v-10Z"/>
+      <path id="Rectangle_885" data-name="Rectangle 885" class="cls-1" d="m80,20h40v10h-40v-10Z"/>
+      <path id="Rectangle_886" data-name="Rectangle 886" class="cls-1" d="m20,10h100v10H20v-10Z"/>
+      <path id="Rectangle_884" data-name="Rectangle 884" class="cls-1" d="m40,0h70v10H40V0Z"/>
+      <path id="Rectangle_883" data-name="Rectangle 883" class="cls-1" d="m0,20h50v20H0v-20Z"/>
+      <path id="Rectangle_887" data-name="Rectangle 887" class="cls-1" d="m50,30h10v10h-10v-10Z"/>
+      <path id="Rectangle_888" data-name="Rectangle 888" class="cls-1" d="m100,40h10v10h-10v-10Z"/>
+      <path id="Rectangle_889" data-name="Rectangle 889" class="cls-1" d="m120,20h10v20h-10v-20Z"/>
+    </g>
+  </g>
+</svg>

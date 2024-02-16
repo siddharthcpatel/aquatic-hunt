@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 15">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #594a4a;
+      }
+
+      .cls-3 {
+        fill: #46352d;
+      }
+
+      .cls-4 {
+        fill: #b8eeea;
+      }
+
+      .cls-5 {
+        fill: #f6d4de;
+      }
+    </style>
+  </defs>
+  <g id="Coral_Reef" data-name="Coral Reef">
+    <g id="snowflake_moray_eel" data-name="snowflake moray eel">
+      <g id="Group_197" data-name="Group 197">
+        <path id="Rectangle_1697" data-name="Rectangle 1697" class="cls-4" d="M95,2.5H17.5v12.5h77.5V2.5Z"/>
+        <path id="Rectangle_1701" data-name="Rectangle 1701" class="cls-4" d="M105,5h-10v10h10V5Z"/>
+        <path id="Rectangle_1702" data-name="Rectangle 1702" class="cls-4" d="M115,7.5h-10v7.5h10v-7.5Z"/>
+        <path id="Rectangle_1703" data-name="Rectangle 1703" class="cls-4" d="M120,10h-5v5h5v-5Z"/>
+        <path id="Rectangle_1698" data-name="Rectangle 1698" class="cls-4" d="M17.5,5H7.5v10h10V5Z"/>
+        <path id="Rectangle_1699" data-name="Rectangle 1699" class="cls-4" d="M7.5,7.5H2.5v7.5h5v-7.5Z"/>
+        <path id="Rectangle_1700" data-name="Rectangle 1700" class="cls-4" d="M2.5,10H0v5h2.5v-5Z"/>
+        <path id="Rectangle_1704" data-name="Rectangle 1704" class="cls-3" d="M22.5,7.5h-5v2.5h5v-2.5Z"/>
+        <path id="Rectangle_1705" data-name="Rectangle 1705" class="cls-3" d="M20,10h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1706" data-name="Rectangle 1706" class="cls-1" d="M12.5,7.5h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1728" data-name="Rectangle 1728" class="cls-5" d="M95,12.5H30v2.5h65v-2.5Z"/>
+        <path id="Rectangle_1729" data-name="Rectangle 1729" class="cls-5" d="M82.5,10h-45v2.5h45v-2.5Z"/>
+        <path id="Rectangle_1730" data-name="Rectangle 1730" class="cls-4" d="M82.5,0h-45v2.5h45V0Z"/>
+      </g>
+      <g id="Group_198" data-name="Group 198">
+        <path id="Rectangle_1731" data-name="Rectangle 1731" class="cls-2" d="M95,7.5h-2.5v5h2.5v-5Z"/>
+        <path id="Rectangle_1732" data-name="Rectangle 1732" class="cls-2" d="M92.5,5h-2.5v5h2.5v-5Z"/>
+        <path id="Rectangle_1734" data-name="Rectangle 1734" class="cls-2" d="M92.5,12.5h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1733" data-name="Rectangle 1733" class="cls-2" d="M90,10h-2.5v5h2.5v-5Z"/>
+      </g>
+      <g id="Group_203" data-name="Group 203">
+        <path id="Rectangle_1731-2" data-name="Rectangle 1731" class="cls-2" d="M110,12.5h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1732-2" data-name="Rectangle 1732" class="cls-2" d="M107.5,10h-2.5v5h2.5v-5Z"/>
+      </g>
+      <g id="Group_204" data-name="Group 204">
+        <path id="Rectangle_1731-3" data-name="Rectangle 1731" class="cls-2" d="M120,10h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1732-3" data-name="Rectangle 1732" class="cls-2" d="M117.5,7.5h-2.5v5h2.5v-5Z"/>
+      </g>
+      <g id="Group_199" data-name="Group 199">
+        <path id="Rectangle_1731-4" data-name="Rectangle 1731" class="cls-2" d="M82.5,2.5h-2.5v5h2.5V2.5Z"/>
+        <path id="Rectangle_1732-4" data-name="Rectangle 1732" class="cls-2" d="M80,0h-2.5v5h2.5V0Z"/>
+        <path id="Rectangle_1734-2" data-name="Rectangle 1734" class="cls-2" d="M80,7.5h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1733-2" data-name="Rectangle 1733" class="cls-2" d="M77.5,5h-2.5v5h2.5v-5Z"/>
+      </g>
+      <g id="Group_205" data-name="Group 205">
+        <path id="Rectangle_1731-5" data-name="Rectangle 1731" class="cls-2" d="M70,7.5h-2.5v5h2.5v-5Z"/>
+        <path id="Rectangle_1732-5" data-name="Rectangle 1732" class="cls-2" d="M67.5,5h-2.5v5h2.5v-5Z"/>
+        <path id="Rectangle_1734-3" data-name="Rectangle 1734" class="cls-2" d="M67.5,12.5h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1733-3" data-name="Rectangle 1733" class="cls-2" d="M65,10h-2.5v5h2.5v-5Z"/>
+      </g>
+      <g id="Group_200" data-name="Group 200">
+        <path id="Rectangle_1731-6" data-name="Rectangle 1731" class="cls-2" d="M57.5,5h-2.5v5h2.5v-5Z"/>
+        <path id="Rectangle_1732-6" data-name="Rectangle 1732" class="cls-2" d="M55,2.5h-2.5v5h2.5V2.5Z"/>
+        <path id="Rectangle_1734-4" data-name="Rectangle 1734" class="cls-2" d="M55,10h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1733-4" data-name="Rectangle 1733" class="cls-2" d="M52.5,7.5h-2.5v5h2.5v-5Z"/>
+      </g>
+      <g id="Group_201" data-name="Group 201">
+        <path id="Rectangle_1731-7" data-name="Rectangle 1731" class="cls-2" d="M45,2.5h-2.5v5h2.5V2.5Z"/>
+        <path id="Rectangle_1732-7" data-name="Rectangle 1732" class="cls-2" d="M42.5,0h-2.5v5h2.5V0Z"/>
+        <path id="Rectangle_1734-5" data-name="Rectangle 1734" class="cls-2" d="M42.5,7.5h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1733-5" data-name="Rectangle 1733" class="cls-2" d="M40,5h-2.5v5h2.5v-5Z"/>
+      </g>
+      <g id="Group_202" data-name="Group 202">
+        <path id="Rectangle_1731-8" data-name="Rectangle 1731" class="cls-2" d="M32.5,7.5h-2.5v5h2.5v-5Z"/>
+        <path id="Rectangle_1732-8" data-name="Rectangle 1732" class="cls-2" d="M30,5h-2.5v5h2.5v-5Z"/>
+        <path id="Rectangle_1734-6" data-name="Rectangle 1734" class="cls-2" d="M30,12.5h-2.5v2.5h2.5v-2.5Z"/>
+        <path id="Rectangle_1733-6" data-name="Rectangle 1733" class="cls-2" d="M27.5,10h-2.5v5h2.5v-5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

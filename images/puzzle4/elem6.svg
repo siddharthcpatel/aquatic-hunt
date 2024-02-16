@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #74fff7;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #cafffc;
+      }
+
+      .cls-3 {
+        fill: #00fff0;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="glowing_algae" data-name="glowing algae">
+      <path id="Rectangle_2318" data-name="Rectangle 2318" class="cls-3" d="m50,25h150v100H50V25Z"/>
+      <path id="Rectangle_2321" data-name="Rectangle 2321" class="cls-3" d="m0,25h50v75H0V25Z"/>
+      <path id="Rectangle_2319" data-name="Rectangle 2319" class="cls-3" d="m200,37.5h100v50h-100v-50Z"/>
+      <path id="Rectangle_2320" data-name="Rectangle 2320" class="cls-3" d="m0,0h100v25H0V0Z"/>
+      <path id="Rectangle_2322" data-name="Rectangle 2322" class="cls-2" d="m200,37.5h100v50h-100v-50Z"/>
+      <path id="Rectangle_2329" data-name="Rectangle 2329" class="cls-2" d="m200,87.5h50v12.5h-50v-12.5Z"/>
+      <path id="Rectangle_2323" data-name="Rectangle 2323" class="cls-1" d="m137.5,25h62.5v100h-62.5V25Z"/>
+      <path id="Rectangle_2324" data-name="Rectangle 2324" class="cls-1" d="m100,25h37.5v37.5h-37.5V25Z"/>
+      <path id="Rectangle_2325" data-name="Rectangle 2325" class="cls-1" d="m125,62.5h12.5v37.5h-12.5v-37.5Z"/>
+      <path id="Rectangle_2326" data-name="Rectangle 2326" class="cls-1" d="m87.5,0h12.5v37.5h-12.5V0Z"/>
+      <path id="Rectangle_2327" data-name="Rectangle 2327" class="cls-2" d="m187.5,25h12.5v50h-12.5V25Z"/>
+      <path id="Rectangle_2328" data-name="Rectangle 2328" class="cls-2" d="m162.5,25h25v25h-25v-25Z"/>
+    </g>
+  </g>
+</svg>

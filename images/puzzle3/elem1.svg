@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 35.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d5c6aa;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #bba884;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="ballard_eggs" data-name="ballard eggs">
+      <path id="Rectangle_2282" data-name="Rectangle 2282" class="cls-1" d="m15.8,5.5h13.7v16.3h-13.7V5.5Z"/>
+      <path id="Rectangle_2288" data-name="Rectangle 2288" class="cls-1" d="m37.6,16.4h13.7v16.3h-13.7v-16.3Z"/>
+      <path id="Rectangle_2283" data-name="Rectangle 2283" class="cls-1" d="m18.5,21.8h8.2v2.7h-8.2v-2.7Z"/>
+      <path id="Rectangle_2289" data-name="Rectangle 2289" class="cls-1" d="m40.4,32.7h8.1v2.8h-8.1v-2.8Z"/>
+      <path id="Rectangle_2284" data-name="Rectangle 2284" class="cls-1" d="m32.2,10.9v8.2h-2.7v-8.2h2.7Z"/>
+      <path id="Rectangle_2290" data-name="Rectangle 2290" class="cls-1" d="m54,21.8v8.2h-2.7v-8.2h2.7Z"/>
+      <path id="Rectangle_2285" data-name="Rectangle 2285" class="cls-1" d="m15.8,10.9v8.2h-2.7v-8.2h2.7Z"/>
+      <path id="Rectangle_2291" data-name="Rectangle 2291" class="cls-1" d="m37.6,21.8v8.2h-2.7v-8.2h2.7Z"/>
+      <path id="Rectangle_2286" data-name="Rectangle 2286" class="cls-1" d="m24,0v2.7h-2.7V0h2.7Z"/>
+      <path id="Rectangle_2292" data-name="Rectangle 2292" class="cls-1" d="m45.8,10.9v2.7h-2.7v-2.7h2.7Z"/>
+      <g id="Group_249" data-name="Group 249">
+        <path id="Rectangle_2276" data-name="Rectangle 2276" class="cls-2" d="m2.7,9.5h13.7v16.3H2.7V9.5Z"/>
+        <path id="Rectangle_2278" data-name="Rectangle 2278" class="cls-2" d="m5.5,25.8h8.1v2.7H5.5v-2.7Z"/>
+        <path id="Rectangle_2279" data-name="Rectangle 2279" class="cls-2" d="m19.1,14.9v8.2h-2.7v-8.2h2.7Z"/>
+        <path id="Rectangle_2280" data-name="Rectangle 2280" class="cls-2" d="m2.7,14.9v8.2H0v-8.2h2.7Z"/>
+        <path id="Rectangle_2281" data-name="Rectangle 2281" class="cls-2" d="m10.9,4v2.7h-2.7v-2.7h2.7Z"/>
+        <path id="Rectangle_2277" data-name="Rectangle 2277" class="cls-2" d="m5.5,6.7h8.1v2.8H5.5v-2.8Z"/>
+      </g>
+      <path id="Rectangle_2287" data-name="Rectangle 2287" class="cls-1" d="m18.5,2.7h8.2v2.8h-8.2v-2.8Z"/>
+      <path id="Rectangle_2293" data-name="Rectangle 2293" class="cls-1" d="m40.4,13.6h8.1v2.8h-8.1v-2.8Z"/>
+    </g>
+  </g>
+</svg>

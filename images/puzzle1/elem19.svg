@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 90">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #8e6b57;
+      }
+
+      .cls-3 {
+        fill: #815c47;
+      }
+
+      .cls-4 {
+        fill: #ffe040;
+      }
+
+      .cls-5 {
+        fill: #f4f4f4;
+      }
+    </style>
+  </defs>
+  <g id="Coral_Reef" data-name="Coral Reef">
+    <g id="pufferfish">
+      <path id="Rectangle_1926" data-name="Rectangle 1926" class="cls-4" d="M10,25h65v45H10V25Z"/>
+      <path id="Rectangle_1927" data-name="Rectangle 1927" class="cls-4" d="M15,70h55v5H15v-5Z"/>
+      <path id="Rectangle_1928" data-name="Rectangle 1928" class="cls-4" d="M15,75h55v5H15v-5Z"/>
+      <path id="Rectangle_1929" data-name="Rectangle 1929" class="cls-4" d="M25,80h35v5H25v-5Z"/>
+      <path id="Rectangle_1930" data-name="Rectangle 1930" class="cls-4" d="M35,85h20v5h-20v-5Z"/>
+      <path id="Rectangle_1931" data-name="Rectangle 1931" class="cls-4" d="M75,25h20v5h-20v-5Z"/>
+      <path id="Rectangle_1932" data-name="Rectangle 1932" class="cls-4" d="M75,30h20v5h-20v-5Z"/>
+      <path id="Rectangle_1933" data-name="Rectangle 1933" class="cls-4" d="M75,35h15v5h-15v-5Z"/>
+      <path id="Rectangle_1988" data-name="Rectangle 1988" class="cls-3" d="M90,35h5v5h-5v-5Z"/>
+      <path id="Rectangle_1934" data-name="Rectangle 1934" class="cls-4" d="M75,40h5v20h-5v-20Z"/>
+      <path id="Rectangle_1935" data-name="Rectangle 1935" class="cls-4" d="M80,40h5v10h-5v-10Z"/>
+      <path id="Rectangle_1946" data-name="Rectangle 1946" class="cls-3" d="M75,5h5v15h-5V5Z"/>
+      <path id="Rectangle_1947" data-name="Rectangle 1947" class="cls-3" d="M80,0h5v20h-5V0Z"/>
+      <path id="Rectangle_1948" data-name="Rectangle 1948" class="cls-3" d="M85,0h5v15h-5V0Z"/>
+      <path id="Rectangle_1949" data-name="Rectangle 1949" class="cls-3" d="M80,50h5v15h-5v-15Z"/>
+      <path id="Rectangle_1950" data-name="Rectangle 1950" class="cls-3" d="M85,50h5v20h-5v-20Z"/>
+      <path id="Rectangle_1951" data-name="Rectangle 1951" class="cls-3" d="M90,55h5v10h-5v-10Z"/>
+      <path id="Rectangle_1941" data-name="Rectangle 1941" class="cls-3" d="M95,20h5v25h-5v-25Z"/>
+      <path id="Rectangle_1942" data-name="Rectangle 1942" class="cls-3" d="M100,15h5v35h-5V15Z"/>
+      <path id="Rectangle_1943" data-name="Rectangle 1943" class="cls-3" d="M105,15h5v35h-5V15Z"/>
+      <path id="Rectangle_1944" data-name="Rectangle 1944" class="cls-3" d="M110,10h5v40h-5V10Z"/>
+      <path id="Rectangle_1945" data-name="Rectangle 1945" class="cls-3" d="M115,15h5v30h-5V15Z"/>
+      <path id="Rectangle_1936" data-name="Rectangle 1936" class="cls-4" d="M15,20h70v5H15v-5Z"/>
+      <path id="Rectangle_1937" data-name="Rectangle 1937" class="cls-4" d="M25,15h45v5H25v-5Z"/>
+      <path id="Rectangle_1938" data-name="Rectangle 1938" class="cls-4" d="M5,30h5v35h-5V30Z"/>
+      <path id="Rectangle_1939" data-name="Rectangle 1939" class="cls-4" d="M0,35h5v10H0v-10Z"/>
+      <path id="Rectangle_1940" data-name="Rectangle 1940" class="cls-4" d="M0,50h5v10H0v-10Z"/>
+      <path id="Rectangle_1952" data-name="Rectangle 1952" class="cls-1" d="M15,30h10v10h-10v-10Z"/>
+      <path id="Rectangle_1953" data-name="Rectangle 1953" class="cls-5" d="M0,50h5v10H0v-10Z"/>
+      <path id="Rectangle_1954" data-name="Rectangle 1954" class="cls-5" d="M5,50h5v15h-5v-15Z"/>
+      <path id="Rectangle_1955" data-name="Rectangle 1955" class="cls-5" d="M10,55h5v15h-5v-15Z"/>
+      <path id="Rectangle_1956" data-name="Rectangle 1956" class="cls-5" d="M15,55h5v25h-5v-25Z"/>
+      <path id="Rectangle_1957" data-name="Rectangle 1957" class="cls-5" d="M20,60h5v20h-5v-20Z"/>
+      <path id="Rectangle_1958" data-name="Rectangle 1958" class="cls-5" d="M25,60h5v25h-5v-25Z"/>
+      <path id="Rectangle_1959" data-name="Rectangle 1959" class="cls-5" d="M30,60h5v25h-5v-25Z"/>
+      <path id="Rectangle_1960" data-name="Rectangle 1960" class="cls-5" d="M35,60h5v30h-5v-30Z"/>
+      <path id="Rectangle_1961" data-name="Rectangle 1961" class="cls-5" d="M40,60h5v30h-5v-30Z"/>
+      <path id="Rectangle_1962" data-name="Rectangle 1962" class="cls-5" d="M45,60h5v30h-5v-30Z"/>
+      <path id="Rectangle_1963" data-name="Rectangle 1963" class="cls-5" d="M50,60h5v30h-5v-30Z"/>
+      <path id="Rectangle_1964" data-name="Rectangle 1964" class="cls-5" d="M55,60h5v25h-5v-25Z"/>
+      <path id="Rectangle_1965" data-name="Rectangle 1965" class="cls-5" d="M60,55h5v25h-5v-25Z"/>
+      <path id="Rectangle_1966" data-name="Rectangle 1966" class="cls-5" d="M65,55h5v25h-5v-25Z"/>
+      <path id="Rectangle_1967" data-name="Rectangle 1967" class="cls-5" d="M70,50h5v20h-5v-20Z"/>
+      <path id="Rectangle_1968" data-name="Rectangle 1968" class="cls-5" d="M75,50h5v10h-5v-10Z"/>
+      <path id="Rectangle_1969" data-name="Rectangle 1969" class="cls-2" d="M15,60h5v5h-5v-5Z"/>
+      <path id="Rectangle_1970" data-name="Rectangle 1970" class="cls-2" d="M25,60h5v5h-5v-5Z"/>
+      <path id="Rectangle_1971" data-name="Rectangle 1971" class="cls-2" d="M35,80h5v5h-5v-5Z"/>
+      <path id="Rectangle_1972" data-name="Rectangle 1972" class="cls-2" d="M30,70h5v5h-5v-5Z"/>
+      <path id="Rectangle_1973" data-name="Rectangle 1973" class="cls-2" d="M40,65h5v5h-5v-5Z"/>
+      <path id="Rectangle_1982" data-name="Rectangle 1982" class="cls-2" d="M20,50h5v5h-5v-5Z"/>
+      <path id="Rectangle_1983" data-name="Rectangle 1983" class="cls-2" d="M35,50h5v5h-5v-5Z"/>
+      <path id="Rectangle_1984" data-name="Rectangle 1984" class="cls-2" d="M45,45h5v5h-5v-5Z"/>
+      <path id="Rectangle_1985" data-name="Rectangle 1985" class="cls-2" d="M55,50h5v5h-5v-5Z"/>
+      <path id="Rectangle_1986" data-name="Rectangle 1986" class="cls-2" d="M65,45h5v5h-5v-5Z"/>
+      <path id="Rectangle_1987" data-name="Rectangle 1987" class="cls-2" d="M75,40h5v5h-5v-5Z"/>
+      <path id="Rectangle_1981" data-name="Rectangle 1981" class="cls-2" d="M50,60h5v5h-5v-5Z"/>
+      <path id="Rectangle_1974" data-name="Rectangle 1974" class="cls-2" d="M50,70h5v5h-5v-5Z"/>
+      <path id="Rectangle_1975" data-name="Rectangle 1975" class="cls-2" d="M45,80h5v5h-5v-5Z"/>
+      <path id="Rectangle_1980" data-name="Rectangle 1980" class="cls-2" d="M55,75h5v5h-5v-5Z"/>
+      <path id="Rectangle_1976" data-name="Rectangle 1976" class="cls-2" d="M60,65h5v5h-5v-5Z"/>
+      <path id="Rectangle_1977" data-name="Rectangle 1977" class="cls-2" d="M70,55h5v5h-5v-5Z"/>
+      <path id="Rectangle_1978" data-name="Rectangle 1978" class="cls-2" d="M5,55h5v5h-5v-5Z"/>
+      <path id="Rectangle_1979" data-name="Rectangle 1979" class="cls-2" d="M20,70h5v5h-5v-5Z"/>
+      <path id="Rectangle_1989" data-name="Rectangle 1989" class="cls-2" d="M95,25h10v5h-10v-5Z"/>
+      <path id="Rectangle_1993" data-name="Rectangle 1993" class="cls-2" d="M110,30h10v5h-10v-5Z"/>
+      <path id="Rectangle_1994" data-name="Rectangle 1994" class="cls-2" d="M80,5h10v5h-10v-5Z"/>
+      <path id="Rectangle_1995" data-name="Rectangle 1995" class="cls-2" d="M75,10h5v10h-5v-10Z"/>
+      <path id="Rectangle_1996" data-name="Rectangle 1996" class="cls-2" d="M80,50h5v10h-5v-10Z"/>
+      <path id="Rectangle_1997" data-name="Rectangle 1997" class="cls-2" d="M85,60h5v10h-5v-10Z"/>
+      <path id="Rectangle_1990" data-name="Rectangle 1990" class="cls-2" d="M105,20h15v5h-15v-5Z"/>
+      <path id="Rectangle_1991" data-name="Rectangle 1991" class="cls-2" d="M105,40h15v5h-15v-5Z"/>
+      <path id="Rectangle_1992" data-name="Rectangle 1992" class="cls-2" d="M90,35h15v5h-15v-5Z"/>
+    </g>
+  </g>
+</svg>
